@@ -1,0 +1,6 @@
+2025-04-24 21:14:57,827 - INFO - Iniciando bot de automação Bac Bo
+2025-04-24 21:14:59,894 - INFO - Novos resultados: ['V', 'A', 'V', 'A', 'E', 'E', 'V', 'V', 'V', 'A', 'A', 'V', 'E', 'A', 'V', 'V', 'A', 'E', 'A', 'E', 'E', 'A', 'A', 'V', 'V', 'E', 'A', 'E', 'A', 'A', 'V', 'A', 'V', 'V', 'A', 'V', 'V', 'V', 'V', 'V', 'V', 'V', 'V', 'V', 'A', 'V', 'V', 'A', 'V', 'V', 'A', 'V', 'A', 'A', 'A', 'V', 'A', 'V', 'V', 'V', 'V', 'E', 'V', 'A', 'A', 'V', 'V', 'A', 'V', 'E', 'A', 'A', 'V', 'A', 'A', 'A', 'V', 'V', 'V', 'A', 'V', 'A', 'A', 'V', 'V', 'V', 'V', 'E', 'V', 'A', 'A', 'V', 'A', 'A', 'A', 'A', 'A', 'E', 'A', 'V', 'A', 'A', 'E', 'A', 'V', 'V', 'A', 'V', 'V', 'V', 'A', 'V', 'E', 'A', 'E', 'E', 'A', 'V', 'V', 'E', 'V', 'V', 'V', 'A', 'A', 'V', 'A']
+2025-04-24 21:14:59,894 - ERROR - Erro inesperado: 'BacBoAuto' object has no attribute 'estrategia_stop_loss'
+2025-04-24 21:21:25,460 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:21:25,461 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:21:25,461 - ERROR - Erro fatal: name 'ConfigManager' is not defined

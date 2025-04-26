@@ -1,0 +1,458 @@
+2025-04-24 21:23:50,226 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:23:50,226 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:23:50,227 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:23:50,227 - ERROR - Erro inesperado: 'BacBoAuto' object has no attribute 'api'
+2025-04-24 21:23:50,227 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:23:50,227 - ERROR - Erro fatal: 'BacBoAuto' object has no attribute 'total_apostas'
+2025-04-24 21:24:53,553 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:24:53,556 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:24:53,557 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:24:53,880 - ERROR - Erro ao obter resultados: HTTPSConnectionPool(host='api.cassino.com', port=443): Max retries exceeded with url: /bacbo/resultados (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10b44ddd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 21:24:55,887 - ERROR - Erro ao obter resultados: HTTPSConnectionPool(host='api.cassino.com', port=443): Max retries exceeded with url: /bacbo/resultados (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10e74d890>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 21:24:57,891 - ERROR - Erro ao obter resultados: HTTPSConnectionPool(host='api.cassino.com', port=443): Max retries exceeded with url: /bacbo/resultados (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10e74d490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 21:24:59,901 - ERROR - Erro ao obter resultados: HTTPSConnectionPool(host='api.cassino.com', port=443): Max retries exceeded with url: /bacbo/resultados (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10e74df50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 21:25:01,912 - ERROR - Erro ao obter resultados: HTTPSConnectionPool(host='api.cassino.com', port=443): Max retries exceeded with url: /bacbo/resultados (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10e74df50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 21:25:03,927 - ERROR - Erro ao obter resultados: HTTPSConnectionPool(host='api.cassino.com', port=443): Max retries exceeded with url: /bacbo/resultados (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10e74df50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 21:25:05,932 - ERROR - Erro ao obter resultados: HTTPSConnectionPool(host='api.cassino.com', port=443): Max retries exceeded with url: /bacbo/resultados (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10e74df50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 21:25:07,932 - INFO - Bot interrompido pelo usuário
+2025-04-24 21:25:07,933 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:25:07,933 - INFO - Total de apostas: 0
+2025-04-24 21:25:07,933 - INFO - Apostas ganhas: 0
+2025-04-24 21:25:07,933 - INFO - Apostas perdidas: 0
+2025-04-24 21:25:07,933 - INFO - Empates: 0
+2025-04-24 21:25:07,933 - INFO - Saldo final: R$1000.00
+2025-04-24 21:25:07,933 - INFO - ======================
+2025-04-24 21:25:58,131 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:25:58,132 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:25:58,132 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:26:03,549 - ERROR - Erro ao obter resultados: Expecting value: line 1 column 1 (char 0)
+2025-04-24 21:26:06,617 - ERROR - Erro ao obter resultados: Expecting value: line 1 column 1 (char 0)
+2025-04-24 21:26:09,694 - ERROR - Erro ao obter resultados: Expecting value: line 1 column 1 (char 0)
+2025-04-24 21:26:12,764 - ERROR - Erro ao obter resultados: Expecting value: line 1 column 1 (char 0)
+2025-04-24 21:26:15,851 - ERROR - Erro ao obter resultados: Expecting value: line 1 column 1 (char 0)
+2025-04-24 21:26:18,912 - ERROR - Erro ao obter resultados: Expecting value: line 1 column 1 (char 0)
+2025-04-24 21:26:20,077 - INFO - Bot interrompido pelo usuário
+2025-04-24 21:26:20,077 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:26:20,077 - INFO - Total de apostas: 0
+2025-04-24 21:26:20,077 - INFO - Apostas ganhas: 0
+2025-04-24 21:26:20,077 - INFO - Apostas perdidas: 0
+2025-04-24 21:26:20,077 - INFO - Empates: 0
+2025-04-24 21:26:20,078 - INFO - Saldo final: R$1000.00
+2025-04-24 21:26:20,078 - INFO - ======================
+2025-04-24 21:28:42,062 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:28:42,062 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:28:42,062 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:28:44,902 - INFO - Histórico atual: AAAAEAVAAE
+2025-04-24 21:28:46,908 - ERROR - Erro inesperado: 'BacBoAuto' object has no attribute 'manter_ativo'
+2025-04-24 21:28:46,909 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:28:46,909 - INFO - Total de apostas: 0
+2025-04-24 21:28:46,909 - INFO - Apostas ganhas: 0
+2025-04-24 21:28:46,909 - INFO - Apostas perdidas: 0
+2025-04-24 21:28:46,909 - INFO - Empates: 0
+2025-04-24 21:28:46,909 - INFO - Saldo final: R$1000.00
+2025-04-24 21:28:46,909 - INFO - ======================
+2025-04-24 21:30:16,557 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:30:16,558 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:30:16,559 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:30:17,834 - INFO - Histórico atual: AAAAEAVAAE
+2025-04-24 21:30:21,745 - INFO - Histórico atual: AAAAEAVAAE
+2025-04-24 21:30:25,849 - INFO - Histórico atual: AAAAEAVAAE
+2025-04-24 21:30:29,690 - INFO - Histórico atual: AAAAEAVAAE
+2025-04-24 21:30:33,528 - INFO - Histórico atual: AAAAEAVAAE
+2025-04-24 21:30:37,373 - INFO - Histórico atual: AAAAEAVAAE
+2025-04-24 21:30:41,329 - INFO - Histórico atual: AAAAEAVAAE
+2025-04-24 21:30:45,288 - INFO - Histórico atual: AAAAEAVAAE
+2025-04-24 21:30:46,710 - INFO - Bot interrompido pelo usuário
+2025-04-24 21:30:46,710 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:30:46,710 - INFO - Total de apostas: 0
+2025-04-24 21:30:46,710 - INFO - Apostas ganhas: 0
+2025-04-24 21:30:46,710 - INFO - Apostas perdidas: 0
+2025-04-24 21:30:46,710 - INFO - Empates: 0
+2025-04-24 21:30:46,710 - INFO - Saldo final: R$1000.00
+2025-04-24 21:30:46,710 - INFO - ======================
+2025-04-24 21:35:07,585 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:35:07,586 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:35:07,587 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:35:10,455 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:10,456 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:10,456 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:14,467 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:14,468 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:14,468 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:18,462 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:18,463 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:18,463 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:22,546 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:22,546 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:22,546 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:26,534 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:26,534 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:26,535 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:30,376 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:30,377 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:30,377 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:34,344 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:34,344 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:34,344 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:38,200 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:38,201 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:38,201 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:42,171 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:42,171 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:42,171 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:46,243 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:46,244 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:46,244 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:50,204 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:50,205 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:50,205 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:54,070 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:54,070 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:54,070 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:35:57,927 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:35:57,928 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:35:57,928 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:36:01,783 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:36:01,783 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:36:01,783 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:36:05,742 - INFO - Histórico atual: AAVVVVEVAA
+2025-04-24 21:36:05,743 - INFO - Padrão parcial identificado: Padrão "T" Bunker
+2025-04-24 21:36:05,743 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:36:08,325 - INFO - Bot interrompido pelo usuário
+2025-04-24 21:36:08,325 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:36:08,325 - INFO - Total de apostas: 0
+2025-04-24 21:36:08,325 - INFO - Apostas ganhas: 0
+2025-04-24 21:36:08,325 - INFO - Apostas perdidas: 0
+2025-04-24 21:36:08,326 - INFO - Empates: 0
+2025-04-24 21:36:08,326 - INFO - Saldo final: R$1000.00
+2025-04-24 21:36:08,326 - INFO - ======================
+2025-04-24 21:38:00,396 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:38:00,397 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:38:00,397 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:38:01,687 - ERROR - Erro inesperado ao obter resultados: 'APIManager' object has no attribute 'strategy'
+2025-04-24 21:38:04,735 - ERROR - Erro inesperado ao obter resultados: 'APIManager' object has no attribute 'strategy'
+2025-04-24 21:38:07,812 - ERROR - Erro inesperado ao obter resultados: 'APIManager' object has no attribute 'strategy'
+2025-04-24 21:38:10,883 - ERROR - Erro inesperado ao obter resultados: 'APIManager' object has no attribute 'strategy'
+2025-04-24 21:38:11,548 - INFO - Bot interrompido pelo usuário
+2025-04-24 21:38:11,548 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:38:11,548 - INFO - Total de apostas: 0
+2025-04-24 21:38:11,548 - INFO - Apostas ganhas: 0
+2025-04-24 21:38:11,548 - INFO - Apostas perdidas: 0
+2025-04-24 21:38:11,548 - INFO - Empates: 0
+2025-04-24 21:38:11,548 - INFO - Saldo final: R$1000.00
+2025-04-24 21:38:11,548 - INFO - ======================
+2025-04-24 21:39:13,694 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:39:13,695 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:39:13,696 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:39:14,822 - INFO - Histórico atual:  "V", "V"]
+2025-04-24 21:39:21,613 - INFO - Histórico atual:  "V", "V"]
+2025-04-24 21:39:25,585 - INFO - Histórico atual:  "V", "V"]
+2025-04-24 21:39:29,434 - INFO - Histórico atual:  "V", "V"]
+2025-04-24 21:39:30,325 - INFO - Bot interrompido pelo usuário
+2025-04-24 21:39:30,325 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:39:30,325 - INFO - Total de apostas: 0
+2025-04-24 21:39:30,325 - INFO - Apostas ganhas: 0
+2025-04-24 21:39:30,325 - INFO - Apostas perdidas: 0
+2025-04-24 21:39:30,325 - INFO - Empates: 0
+2025-04-24 21:39:30,325 - INFO - Saldo final: R$1000.00
+2025-04-24 21:39:30,325 - INFO - ======================
+2025-04-24 21:43:58,472 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:43:58,472 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:43:58,473 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:43:59,792 - INFO - Histórico atual:  "V", "V"]
+2025-04-24 21:44:03,846 - INFO - Histórico atual:  "V", "V"]
+2025-04-24 21:44:07,936 - INFO - Histórico atual:  "V", "V"]
+2025-04-24 21:44:11,794 - INFO - Histórico atual:  "V", "V"]
+2025-04-24 21:44:15,654 - INFO - Histórico atual:  "V", "V"]
+2025-04-24 21:44:16,007 - INFO - Bot interrompido pelo usuário
+2025-04-24 21:44:16,007 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:44:16,007 - INFO - Total de apostas: 0
+2025-04-24 21:44:16,007 - INFO - Apostas ganhas: 0
+2025-04-24 21:44:16,007 - INFO - Apostas perdidas: 0
+2025-04-24 21:44:16,007 - INFO - Empates: 0
+2025-04-24 21:44:16,007 - INFO - Saldo final: R$1000.00
+2025-04-24 21:44:16,007 - INFO - ======================
+2025-04-24 21:46:04,227 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:46:04,228 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:46:04,228 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:46:07,120 - INFO - Histórico atual: AAVVAVEAAV
+2025-04-24 21:46:07,120 - INFO - Padrão parcial: Padrão "T" Player
+2025-04-24 21:46:07,120 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 21:46:11,012 - INFO - Histórico atual: AAVVAVEAAV
+2025-04-24 21:46:11,013 - INFO - Estratégia completa: Padrão "T" Player
+2025-04-24 21:46:11,013 - ERROR - Erro inesperado: 'BacBoAuto' object has no attribute 'calcular_valor_aposta'
+2025-04-24 21:46:11,013 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:46:11,013 - INFO - Total de apostas: 0
+2025-04-24 21:46:11,013 - INFO - Apostas ganhas: 0
+2025-04-24 21:46:11,013 - INFO - Apostas perdidas: 0
+2025-04-24 21:46:11,013 - INFO - Empates: 0
+2025-04-24 21:46:11,013 - INFO - Saldo final: R$1000.00
+2025-04-24 21:46:11,013 - INFO - ======================
+2025-04-24 21:48:12,470 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:48:12,470 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:48:12,470 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:48:13,563 - INFO - Histórico atual: VVVVEVAAVV
+2025-04-24 21:48:13,563 - INFO - Estratégia completa: Padrão Escadinha Alternada
+2025-04-24 21:48:13,563 - ERROR - Erro inesperado: 'BacBoAuto' object has no attribute 'fazer_aposta'
+2025-04-24 21:48:13,563 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:48:13,563 - INFO - Total de apostas: 0
+2025-04-24 21:48:13,563 - INFO - Apostas ganhas: 0
+2025-04-24 21:48:13,563 - INFO - Apostas perdidas: 0
+2025-04-24 21:48:13,563 - INFO - Empates: 0
+2025-04-24 21:48:13,564 - INFO - Saldo final: R$1000.00
+2025-04-24 21:48:13,564 - INFO - ======================
+2025-04-24 21:49:30,110 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:49:30,111 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:49:30,111 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:49:31,223 - INFO - Histórico atual: VVVVEVAAVV
+2025-04-24 21:49:31,224 - INFO - Estratégia completa: Padrão Alternância
+2025-04-24 21:49:32,649 - INFO - Aposta realizada: V - R$5.00
+2025-04-24 21:49:43,776 - ERROR - Erro inesperado: 'BacBoAuto' object has no attribute 'verificar_resultado'
+2025-04-24 21:49:43,777 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:49:43,777 - INFO - Total de apostas: 1
+2025-04-24 21:49:43,777 - INFO - Apostas ganhas: 0
+2025-04-24 21:49:43,777 - INFO - Apostas perdidas: 0
+2025-04-24 21:49:43,777 - INFO - Empates: 0
+2025-04-24 21:49:43,777 - INFO - Taxa de acerto: 0.00%
+2025-04-24 21:49:43,777 - INFO - Saldo final: R$1000.00
+2025-04-24 21:49:43,778 - INFO - ======================
+2025-04-24 21:51:21,530 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:51:21,530 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:51:21,530 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:51:22,657 - INFO - Histórico atual: VAAAVAVVVV
+2025-04-24 21:51:22,658 - INFO - Padrão parcial: Padrão "T" Player
+2025-04-24 21:51:22,658 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 21:51:26,688 - INFO - Histórico atual: VAAAVAVVVV
+2025-04-24 21:51:26,689 - INFO - Padrão parcial: Padrão "T" Player
+2025-04-24 21:51:26,689 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 21:51:30,529 - INFO - Histórico atual: VAAAVAVVVV
+2025-04-24 21:51:30,530 - INFO - Padrão parcial: Padrão "T" Player
+2025-04-24 21:51:30,530 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 21:51:34,373 - INFO - Histórico atual: VAAAVAVVVV
+2025-04-24 21:51:34,374 - INFO - Padrão parcial: Padrão "T" Player
+2025-04-24 21:51:34,374 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 21:51:38,230 - INFO - Histórico atual: VAAAVAVVVV
+2025-04-24 21:51:38,230 - INFO - Estratégia completa: Padrão "T" Player
+2025-04-24 21:51:39,578 - INFO - Aposta realizada: A - R$5.00
+2025-04-24 21:51:50,709 - INFO - Derrota. Saldo: R$995.00
+2025-04-24 21:51:50,710 - ERROR - Stop win atingido: R$995.00
+2025-04-24 21:51:50,710 - ERROR - Erro inesperado: Stop win atingido: R$995.00
+2025-04-24 21:51:50,710 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:51:50,710 - INFO - Total de apostas: 1
+2025-04-24 21:51:50,710 - INFO - Apostas ganhas: 0
+2025-04-24 21:51:50,710 - INFO - Apostas perdidas: 1
+2025-04-24 21:51:50,710 - INFO - Empates: 0
+2025-04-24 21:51:50,710 - INFO - Taxa de acerto: 0.00%
+2025-04-24 21:51:50,710 - INFO - Saldo final: R$995.00
+2025-04-24 21:51:50,710 - INFO - ======================
+2025-04-24 21:55:18,789 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:55:18,789 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:55:18,790 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:55:19,891 - INFO - Histórico atual: VVAVVAVAAA
+2025-04-24 21:55:19,892 - INFO - Estratégia completa: Padrão "T" Player
+2025-04-24 21:55:21,299 - INFO - Aposta realizada: A - R$5.00
+2025-04-24 21:55:32,579 - INFO - Derrota. Saldo: R$995.00
+2025-04-24 21:55:36,863 - INFO - Histórico atual: VVAVVAVAAA
+2025-04-24 21:55:36,864 - INFO - Estratégia completa: Padrão "T" Player
+2025-04-24 21:55:38,204 - INFO - Aposta realizada: A - R$10.00
+2025-04-24 21:55:49,297 - INFO - Derrota. Saldo: R$985.00
+2025-04-24 21:55:53,137 - INFO - Histórico atual: VVAVVAVAAA
+2025-04-24 21:55:53,137 - INFO - Estratégia completa: Padrão "T" Player
+2025-04-24 21:55:54,483 - INFO - Aposta realizada: A - R$20.00
+2025-04-24 21:55:59,826 - INFO - Bot interrompido pelo usuário
+2025-04-24 21:55:59,826 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:55:59,826 - INFO - Total de apostas: 3
+2025-04-24 21:55:59,826 - INFO - Apostas ganhas: 0
+2025-04-24 21:55:59,826 - INFO - Apostas perdidas: 2
+2025-04-24 21:55:59,826 - INFO - Empates: 0
+2025-04-24 21:55:59,826 - INFO - Taxa de acerto: 0.00%
+2025-04-24 21:55:59,826 - INFO - Saldo final: R$985.00
+2025-04-24 21:55:59,826 - INFO - ======================
+2025-04-24 21:58:02,458 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 21:58:02,459 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 21:58:02,459 - INFO - Configurações carregadas com sucesso
+2025-04-24 21:58:03,555 - INFO - Histórico atual: VVVVVAVVAV
+2025-04-24 21:58:03,555 - INFO - Estratégia completa: Padrão "T" Player
+2025-04-24 21:58:04,959 - INFO - Aposta realizada: A - R$5.00
+2025-04-24 21:58:36,070 - INFO - Derrota. Saldo: R$995.00
+2025-04-24 21:58:39,929 - INFO - Histórico atual: VVVVVAVVAV
+2025-04-24 21:58:43,771 - INFO - Histórico atual: VVVVVAVVAV
+2025-04-24 21:58:47,728 - INFO - Histórico atual: VVVVVAVVAV
+2025-04-24 21:58:47,729 - INFO - Padrão parcial: Padrão "T" Bunker
+2025-04-24 21:58:47,729 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:58:51,816 - INFO - Histórico atual: VVVVVAVVAV
+2025-04-24 21:58:51,816 - INFO - Padrão parcial: Padrão "T" Bunker
+2025-04-24 21:58:51,816 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:58:55,779 - INFO - Histórico atual: VVVVVAVVAV
+2025-04-24 21:58:55,779 - INFO - Padrão parcial: Padrão "T" Bunker
+2025-04-24 21:58:55,779 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Bunker
+2025-04-24 21:58:55,926 - INFO - Bot interrompido pelo usuário
+2025-04-24 21:58:55,927 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 21:58:55,927 - INFO - Total de apostas: 1
+2025-04-24 21:58:55,927 - INFO - Apostas ganhas: 0
+2025-04-24 21:58:55,927 - INFO - Apostas perdidas: 1
+2025-04-24 21:58:55,927 - INFO - Empates: 0
+2025-04-24 21:58:55,927 - INFO - Taxa de acerto: 0.00%
+2025-04-24 21:58:55,927 - INFO - Saldo final: R$995.00
+2025-04-24 21:58:55,927 - INFO - ======================
+2025-04-24 22:01:23,738 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 22:01:23,738 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 22:01:23,739 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:01:24,837 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:01:28,892 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:01:32,784 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:01:36,749 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:01:40,994 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:01:44,958 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:01:48,927 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:01:52,879 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:01:56,845 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:02:00,796 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:02:02,963 - INFO - Bot interrompido pelo usuário
+2025-04-24 22:02:02,963 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 22:02:02,963 - INFO - Total de apostas: 0
+2025-04-24 22:02:02,963 - INFO - Apostas ganhas: 0
+2025-04-24 22:02:02,963 - INFO - Apostas perdidas: 0
+2025-04-24 22:02:02,963 - INFO - Empates: 0
+2025-04-24 22:02:02,963 - INFO - Saldo final: R$1000.00
+2025-04-24 22:02:02,963 - INFO - ======================
+2025-04-24 22:02:05,350 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 22:02:05,351 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 22:02:05,351 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:02:06,443 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:02:10,490 - INFO - Histórico atual: VAVVVVVVVV
+2025-04-24 22:02:10,504 - INFO - Bot interrompido pelo usuário
+2025-04-24 22:02:10,504 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 22:02:10,505 - INFO - Total de apostas: 0
+2025-04-24 22:02:10,505 - INFO - Apostas ganhas: 0
+2025-04-24 22:02:10,505 - INFO - Apostas perdidas: 0
+2025-04-24 22:02:10,505 - INFO - Empates: 0
+2025-04-24 22:02:10,505 - INFO - Saldo final: R$1000.00
+2025-04-24 22:02:10,505 - INFO - ======================
+2025-04-24 22:04:28,771 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 22:04:28,772 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 22:04:28,772 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:04:29,891 - INFO - Histórico atual: EAAVAVVAVV
+2025-04-24 22:04:29,891 - INFO - Estratégia completa: Padrão "T" Player
+2025-04-24 22:04:31,307 - INFO - Aposta realizada: A - R$5.00
+2025-04-24 22:05:02,450 - ERROR - Erro inesperado: BacBoAuto.verificar_resultado() takes 2 positional arguments but 3 were given
+2025-04-24 22:05:02,450 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 22:05:02,451 - INFO - Total de apostas: 1
+2025-04-24 22:05:02,451 - INFO - Apostas ganhas: 0
+2025-04-24 22:05:02,451 - INFO - Apostas perdidas: 0
+2025-04-24 22:05:02,451 - INFO - Empates: 0
+2025-04-24 22:05:02,451 - INFO - Taxa de acerto: 0.00%
+2025-04-24 22:05:02,451 - INFO - Saldo final: R$1000.00
+2025-04-24 22:05:02,451 - INFO - ======================
+2025-04-24 22:06:23,486 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 22:06:23,487 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 22:06:23,487 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:06:24,609 - INFO - Histórico atual: EAAVAVVAVV
+2025-04-24 22:06:24,609 - INFO - Estratégia completa: Padrão "T" Player
+2025-04-24 22:06:26,014 - INFO - Aposta realizada: A - R$5.00
+2025-04-24 22:06:53,252 - INFO - Bot interrompido pelo usuário
+2025-04-24 22:06:53,252 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 22:06:53,252 - INFO - Total de apostas: 1
+2025-04-24 22:06:53,252 - INFO - Apostas ganhas: 0
+2025-04-24 22:06:53,252 - INFO - Apostas perdidas: 0
+2025-04-24 22:06:53,252 - INFO - Empates: 0
+2025-04-24 22:06:53,252 - INFO - Taxa de acerto: 0.00%
+2025-04-24 22:06:53,252 - INFO - Saldo final: R$1000.00
+2025-04-24 22:06:53,252 - INFO - ======================
+2025-04-24 22:06:54,769 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 22:06:54,770 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 22:06:54,770 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:06:55,883 - INFO - Histórico atual: EAAVAVVAVV
+2025-04-24 22:06:55,883 - INFO - Estratégia completa: Padrão "T" Player
+2025-04-24 22:06:57,297 - INFO - Aposta realizada: A - R$5.00
+2025-04-24 22:07:04,028 - INFO - Bot interrompido pelo usuário
+2025-04-24 22:07:04,028 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 22:07:04,028 - INFO - Total de apostas: 1
+2025-04-24 22:07:04,028 - INFO - Apostas ganhas: 0
+2025-04-24 22:07:04,028 - INFO - Apostas perdidas: 0
+2025-04-24 22:07:04,028 - INFO - Empates: 0
+2025-04-24 22:07:04,028 - INFO - Taxa de acerto: 0.00%
+2025-04-24 22:07:04,028 - INFO - Saldo final: R$1000.00
+2025-04-24 22:07:04,028 - INFO - ======================
+2025-04-24 22:07:05,894 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 22:07:05,894 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 22:07:05,895 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:07:06,987 - INFO - Histórico atual: EAAVAVVAVV
+2025-04-24 22:07:06,987 - INFO - Estratégia completa: Padrão "T" Player
+2025-04-24 22:07:08,411 - INFO - Aposta realizada: A - R$5.00
+2025-04-24 22:07:39,523 - ERROR - Erro ao verificar resultado: 'BacBoAuto' object has no attribute 'processar_resultado'
+2025-04-24 22:07:39,524 - ERROR - Erro inesperado: 'BacBoAuto' object has no attribute 'processar_resultado'
+2025-04-24 22:07:39,524 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 22:07:39,524 - INFO - Total de apostas: 1
+2025-04-24 22:07:39,525 - INFO - Apostas ganhas: 0
+2025-04-24 22:07:39,525 - INFO - Apostas perdidas: 0
+2025-04-24 22:07:39,525 - INFO - Empates: 0
+2025-04-24 22:07:39,525 - INFO - Taxa de acerto: 0.00%
+2025-04-24 22:07:39,525 - INFO - Saldo final: R$1000.00
+2025-04-24 22:07:39,525 - INFO - ======================
+2025-04-24 22:08:56,702 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 22:08:56,702 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 22:08:56,703 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:08:57,798 - INFO - Histórico atual (127 resultados): AAVVEAEAAV
+2025-04-24 22:08:57,799 - INFO - Padrão parcial: Padrão "T" Player
+2025-04-24 22:08:57,799 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 22:09:01,809 - INFO - Histórico atual (128 resultados): AAVVEAEAAV
+2025-04-24 22:09:01,810 - INFO - Padrão parcial: Padrão "T" Player
+2025-04-24 22:09:01,810 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 22:09:05,667 - INFO - Histórico atual (128 resultados): AAVVEAEAAV
+2025-04-24 22:09:05,668 - INFO - Padrão parcial: Padrão "T" Player
+2025-04-24 22:09:05,668 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 22:09:09,644 - INFO - Histórico atual (128 resultados): AAVVEAEAAV
+2025-04-24 22:09:09,644 - INFO - Padrão parcial: Padrão "T" Player
+2025-04-24 22:09:09,644 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 22:09:11,222 - INFO - Bot interrompido pelo usuário
+2025-04-24 22:09:11,222 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 22:09:11,222 - INFO - Total de apostas: 0
+2025-04-24 22:09:11,222 - INFO - Apostas ganhas: 0
+2025-04-24 22:09:11,222 - INFO - Apostas perdidas: 0
+2025-04-24 22:09:11,222 - INFO - Empates: 0
+2025-04-24 22:09:11,222 - INFO - Saldo final: R$1000.00
+2025-04-24 22:09:11,222 - INFO - ======================
+2025-04-24 22:10:34,384 - INFO - Iniciando bot Bac Bo com validação de estratégia
+2025-04-24 22:10:34,385 - INFO - Carregados 16 padrões de estratégia
+2025-04-24 22:10:34,385 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:10:35,476 - INFO - Histórico atual (130 resultados): AAVVEAEAAV
+2025-04-24 22:10:35,476 - INFO - Padrão parcial detectado: Padrão "T" Player
+2025-04-24 22:10:35,476 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 22:10:39,665 - INFO - Histórico atual (130 resultados): AAVVEAEAAV
+2025-04-24 22:10:39,666 - INFO - Padrão parcial detectado: Padrão "T" Player
+2025-04-24 22:10:39,666 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 22:10:43,644 - INFO - Histórico atual (131 resultados): AAVVEAEAAV
+2025-04-24 22:10:43,644 - INFO - Padrão parcial detectado: Padrão "T" Player
+2025-04-24 22:10:43,644 - INFO - ⚠️ Padrão parcial detectado: Padrão "T" Player
+2025-04-24 22:10:44,120 - INFO - Bot interrompido pelo usuário
+2025-04-24 22:10:44,120 - INFO - 
+=== RELATÓRIO FINAL ===
+2025-04-24 22:10:44,120 - INFO - Total de apostas: 0
+2025-04-24 22:10:44,120 - INFO - Apostas ganhas: 0
+2025-04-24 22:10:44,120 - INFO - Apostas perdidas: 0
+2025-04-24 22:10:44,120 - INFO - Empates: 0
+2025-04-24 22:10:44,120 - INFO - Saldo final: R$1000.00
+2025-04-24 22:10:44,120 - INFO - ======================

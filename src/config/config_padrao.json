@@ -1,0 +1,11 @@
+{
+  "configuracoes": {
+    "stop_loss": 5,
+    "stop_win": 10,
+    "max_gales": 2,
+    "gale_multiplicadores": [2.0, 3.5],
+    "valor_base": 5,
+    "modo_stealth": true,
+    "tempo_espera": 30
+  }
+}

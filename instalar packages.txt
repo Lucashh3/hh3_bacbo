@@ -1,0 +1,13 @@
+------ AMBIENTE VIRTUAL
+
+py -m venv venv
+.\venv\Scripts\Activate.ps1
+
+------ INSTALAR PACKAGES
+
+pip install -r requirements.txt
+
+------ CRIAR EXECUTAVEL
+
+pip install pyinstaller
+pyinstaller --onefile .\start.py

@@ -1,0 +1,16 @@
+AVV=A=Padrão "T" Player
+VAA=V=Padrão "T" Bunker
+AVVV=A=Padrão "T" Player
+VAAA=V=Padrão "T" Bunker
+AVAVA=V=Padrão Alternância
+VAVAV=A=Padrão Alternância
+AVAVAV=V=Padrão Quebra de Alternância
+VAVAVA=A=Padrão Quebra de Alternância
+AVAVAVV=A=Padrão Falsa Quebra de Alternância
+VAVAVAA=V=Padrão Falsa Quebra de Alternância
+AAAVV=A=Padrão Escadinha
+VVVAA=V=Padrão Escadinha
+AAAVA=A=Padrão Escadinha Alternada
+VVVAV=V=Padrão Escadinha Alternada
+AAAAVV=A=Padrão Escadinha Alta 
+VVVVAA=V=Padrão Escadinha Alta 

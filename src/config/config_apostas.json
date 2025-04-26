@@ -1,0 +1,8 @@
+{
+    "aposta_base": 20,
+    "aposta_empate": 5,
+    "gale_multiplicadores": [2.0, 4.0],
+    "max_gales": 2,
+    "stop_loss": 3,
+    "saldo_inicial": 1000
+}

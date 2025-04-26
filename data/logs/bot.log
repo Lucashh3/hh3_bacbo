@@ -1,0 +1,1827 @@
+2025-04-23 16:59:23,139 - INFO - Inicializando BotCassino
+2025-04-23 16:59:23,140 - INFO - Iniciando bot...
+2025-04-23 16:59:30,902 - INFO - Padrão parcial encontrado - Enviando alerta
+2025-04-23 17:00:04,484 - INFO - Estratégia encontrada: {'padrao': ['V', 'V', 'A'], 'entrada': 'A'}
+2025-04-23 17:00:36,631 - INFO - Vamos para o 1ª gale
+2025-04-23 17:01:09,842 - INFO - Resultado: WIN
+2025-04-23 17:01:33,294 - INFO - Bot encerrado pelo usuário
+2025-04-23 17:10:43,947 - INFO - Inicializando BotCassino
+2025-04-23 17:10:43,947 - INFO - Iniciando bot...
+2025-04-23 17:11:12,662 - INFO - Padrão parcial encontrado para estratégia: Estratégia Martingale Azul
+2025-04-23 17:11:48,205 - INFO - Padrão parcial encontrado para estratégia: Estratégia Martingale Azul
+2025-04-23 17:11:55,206 - INFO - Bot encerrado pelo usuário
+2025-04-23 17:35:48,525 - INFO - Inicializando BotCassino
+2025-04-23 17:35:48,525 - INFO - Iniciando bot...
+2025-04-23 17:36:38,716 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 17:37:20,468 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 17:38:01,170 - INFO - Resultado: WIN
+2025-04-23 17:38:35,827 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 17:39:18,730 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 17:39:55,209 - INFO - Vamos para o 1ª gale
+2025-04-23 17:40:32,320 - INFO - Resultado: WIN
+2025-04-23 17:41:13,113 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 17:41:49,189 - INFO - Resultado: WIN
+2025-04-23 17:42:27,580 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 17:46:58,014 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 17:47:34,871 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 17:48:11,317 - INFO - Resultado: WIN
+2025-04-23 17:48:49,909 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 17:49:32,648 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 17:52:08,561 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 17:52:44,864 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 17:53:23,221 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 17:54:01,973 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 17:54:43,368 - INFO - Vamos para o 1ª gale
+2025-04-23 17:55:20,269 - INFO - Vamos para o 2ª gale
+2025-04-23 17:55:59,312 - INFO - Resultado: LOSS
+2025-04-23 17:57:46,021 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 17:58:23,095 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 17:58:56,493 - INFO - Resultado: WIN
+2025-04-23 17:59:30,903 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 18:04:17,948 - INFO - Vamos para o 1ª gale
+2025-04-23 18:04:54,617 - INFO - Resultado: WIN
+2025-04-23 18:07:25,417 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Read timed out. (read timeout=10)
+2025-04-23 18:17:30,064 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Read timed out. (read timeout=10)
+2025-04-23 18:17:33,133 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 18:17:48,990 - INFO - Resultado: WIN
+2025-04-23 18:18:25,547 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 18:19:55,125 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Read timed out. (read timeout=10)
+2025-04-23 18:20:02,175 - INFO - Vamos para o 1ª gale
+2025-04-23 18:20:14,287 - INFO - Vamos para o 2ª gale
+2025-04-23 18:20:48,746 - INFO - Resultado: WIN
+2025-04-23 18:22:36,265 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Read timed out. (read timeout=10)
+2025-04-23 18:25:01,220 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 18:25:34,064 - INFO - Vamos para o 1ª gale
+2025-04-23 18:26:18,440 - INFO - Vamos para o 2ª gale
+2025-04-23 18:26:55,787 - INFO - Resultado: LOSS
+2025-04-23 18:27:32,609 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 18:29:22,163 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Read timed out. (read timeout=10)
+2025-04-23 18:31:54,741 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 18:32:33,379 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 18:33:10,138 - INFO - Resultado: WIN
+2025-04-23 18:33:48,803 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 18:34:25,142 - INFO - Vamos para o 1ª gale
+2025-04-23 18:35:05,850 - INFO - Vamos para o 2ª gale
+2025-04-23 18:35:42,375 - INFO - Resultado: WIN
+2025-04-23 18:36:17,124 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 18:36:53,622 - INFO - Vamos para o 1ª gale
+2025-04-23 18:37:34,655 - INFO - Vamos para o 2ª gale
+2025-04-23 18:38:11,209 - INFO - Resultado: WIN
+2025-04-23 18:38:47,746 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 18:39:27,028 - INFO - Vamos para o 1ª gale
+2025-04-23 18:40:06,163 - INFO - Resultado: WIN
+2025-04-23 18:40:40,906 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 18:41:19,934 - INFO - Vamos para o 1ª gale
+2025-04-23 18:41:56,753 - INFO - Vamos para o 2ª gale
+2025-04-23 18:42:33,865 - INFO - Resultado: LOSS
+2025-04-23 18:43:12,718 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 18:43:49,814 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 18:44:28,201 - INFO - Vamos para o 1ª gale
+2025-04-23 18:45:07,286 - INFO - Resultado: WIN
+2025-04-23 18:45:46,169 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 18:46:22,925 - INFO - Resultado: WIN
+2025-04-23 18:47:04,091 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 18:48:58,678 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 18:49:36,311 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 18:50:15,375 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 18:50:51,984 - INFO - Resultado: WIN
+2025-04-23 18:51:29,187 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 18:52:08,550 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 18:52:47,445 - INFO - Vamos para o 1ª gale
+2025-04-23 18:53:26,678 - INFO - Resultado: WIN
+2025-04-23 18:55:13,982 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 18:57:29,966 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 18:58:02,713 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 18:58:35,101 - INFO - Vamos para o 1ª gale
+2025-04-23 18:59:09,777 - INFO - Resultado: WIN
+2025-04-23 18:59:42,675 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 19:00:15,247 - INFO - Vamos para o 1ª gale
+2025-04-23 19:00:49,780 - INFO - Vamos para o 2ª gale
+2025-04-23 19:01:22,097 - INFO - Resultado: LOSS
+2025-04-23 19:03:33,906 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 19:04:05,799 - INFO - Vamos para o 1ª gale
+2025-04-23 19:04:40,406 - INFO - Vamos para o 2ª gale
+2025-04-23 19:05:10,793 - INFO - Resultado: WIN
+2025-04-23 19:05:45,281 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 19:06:19,593 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:06:52,393 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 19:07:23,534 - INFO - Resultado: WIN
+2025-04-23 19:07:59,323 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 19:08:31,829 - INFO - Resultado: EMPATE
+2025-04-23 19:09:38,448 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:10:13,411 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 19:10:46,034 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 19:11:18,491 - INFO - Resultado: WIN
+2025-04-23 19:11:51,394 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 19:12:23,953 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 19:12:58,450 - INFO - Resultado: WIN
+2025-04-23 19:13:30,847 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:14:03,113 - INFO - Resultado: WIN
+2025-04-23 19:14:36,228 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 19:15:10,634 - INFO - Vamos para o 1ª gale
+2025-04-23 19:15:44,274 - INFO - Vamos para o 2ª gale
+2025-04-23 19:16:14,958 - INFO - Resultado: WIN
+2025-04-23 19:18:26,080 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:21:46,111 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:22:21,362 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 19:22:54,101 - INFO - Resultado: WIN
+2025-04-23 19:24:00,333 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:24:35,227 - INFO - Resultado: WIN
+2025-04-23 19:26:14,819 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:26:50,006 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:27:22,591 - INFO - Vamos para o 1ª gale
+2025-04-23 19:27:57,324 - INFO - Vamos para o 2ª gale
+2025-04-23 19:29:02,186 - INFO - Resultado: LOSS
+2025-04-23 19:29:34,896 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 19:30:10,099 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:30:41,507 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:31:13,991 - INFO - Vamos para o 1ª gale
+2025-04-23 19:31:47,005 - INFO - Resultado: WIN
+2025-04-23 19:32:19,448 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 19:32:51,845 - INFO - Vamos para o 1ª gale
+2025-04-23 19:33:26,635 - INFO - Vamos para o 2ª gale
+2025-04-23 19:33:59,150 - INFO - Resultado: WIN
+2025-04-23 19:36:13,159 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:36:45,652 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:37:19,636 - INFO - Resultado: EMPATE
+2025-04-23 19:39:32,415 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:40:02,855 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:40:35,873 - INFO - Vamos para o 1ª gale
+2025-04-23 19:41:10,867 - INFO - Resultado: WIN
+2025-04-23 19:41:43,597 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 19:42:16,228 - INFO - Resultado: WIN
+2025-04-23 19:42:50,390 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:43:54,154 - INFO - Resultado: WIN
+2025-04-23 19:44:25,400 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:44:58,055 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 19:45:33,724 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 19:46:05,951 - INFO - Vamos para o 1ª gale
+2025-04-23 19:46:38,650 - INFO - Resultado: WIN
+2025-04-23 19:47:09,163 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:47:43,625 - INFO - Vamos para o 1ª gale
+2025-04-23 19:48:16,274 - INFO - Resultado: WIN
+2025-04-23 19:48:49,693 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 19:49:21,906 - INFO - Vamos para o 1ª gale
+2025-04-23 19:49:55,005 - INFO - Resultado: WIN
+2025-04-23 19:50:27,743 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:51:02,369 - INFO - Resultado: WIN
+2025-04-23 19:51:32,904 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:52:05,805 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:52:40,433 - INFO - Resultado: WIN
+2025-04-23 19:53:11,700 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 19:53:44,692 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 19:54:17,260 - INFO - Vamos para o 1ª gale
+2025-04-23 19:54:52,111 - INFO - Resultado: WIN
+2025-04-23 19:55:24,656 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 19:55:57,236 - INFO - Vamos para o 1ª gale
+2025-04-23 19:56:29,135 - INFO - Vamos para o 2ª gale
+2025-04-23 19:57:02,313 - INFO - Resultado: EMPATE
+2025-04-23 20:00:18,243 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:00:53,536 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 20:01:25,941 - INFO - Vamos para o 1ª gale
+2025-04-23 20:01:58,787 - INFO - Vamos para o 2ª gale
+2025-04-23 20:02:33,294 - INFO - Resultado: LOSS
+2025-04-23 20:05:18,223 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 20:05:51,247 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:06:24,162 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 20:06:58,377 - INFO - Vamos para o 1ª gale
+2025-04-23 20:07:30,833 - INFO - Vamos para o 2ª gale
+2025-04-23 20:08:03,440 - INFO - Resultado: LOSS
+2025-04-23 20:08:38,128 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 20:09:10,714 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 20:09:42,989 - INFO - Vamos para o 1ª gale
+2025-04-23 20:10:17,340 - INFO - Resultado: WIN
+2025-04-23 20:10:50,605 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 20:11:25,214 - INFO - Resultado: WIN
+2025-04-23 20:11:57,785 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:13:36,337 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 20:14:34,949 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838790>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:35,966 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:36,987 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a710>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:38,004 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:39,024 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058393d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:40,036 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b310>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:41,050 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838990>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:42,070 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058398d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:43,089 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838a10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:44,112 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b590>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:45,128 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839a10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:46,143 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:47,153 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b090>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:48,172 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839990>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:49,190 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838cd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:50,198 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b310>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:51,213 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a2d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:52,231 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838c50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:53,246 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058388d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:54,260 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:55,279 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a2d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:56,297 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583be10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:57,314 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583bd50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:58,330 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:14:59,347 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a9d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:00,359 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a810>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:01,378 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583bd10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:02,398 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838990>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:03,409 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a950>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:04,428 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838790>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:05,447 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:06,472 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:07,491 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b310>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:08,510 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838b50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:09,528 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583ad10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:10,547 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b310>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:11,555 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839350>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:12,575 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583ad10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:13,596 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:14,617 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058393d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:15,632 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838cd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:16,645 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a810>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:17,662 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838b50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:18,682 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:19,705 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b310>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:20,718 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839890>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:21,737 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058388d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:22,760 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839290>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:23,779 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a950>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:24,796 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839350>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:25,815 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a9d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:26,833 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839a90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:27,853 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058388d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:28,872 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:29,892 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b410>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:30,910 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:31,930 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583add0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:32,949 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058386d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:33,964 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583ad10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:34,977 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:35,997 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838850>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:37,007 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838c10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:38,026 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:39,047 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b9d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:40,065 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838cd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:41,077 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838c50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:42,091 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583a2d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:43,110 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583bd50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:44,121 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:45,144 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105838cd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:46,160 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839350>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:47,184 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:48,201 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583b090>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:49,220 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105839810>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:50,238 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10583add0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-23 20:15:52,334 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:16:21,062 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 20:16:56,190 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 20:17:28,354 - INFO - Resultado: EMPATE
+2025-04-23 20:21:21,090 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:21:53,641 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 20:22:26,104 - INFO - Resultado: WIN
+2025-04-23 20:22:58,638 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:23:33,388 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 20:24:39,550 - INFO - Vamos para o 1ª gale
+2025-04-23 20:25:22,463 - INFO - Vamos para o 2ª gale
+2025-04-23 20:25:59,490 - INFO - Resultado: WIN
+2025-04-23 20:30:09,979 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 20:30:42,201 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 20:31:16,558 - INFO - Vamos para o 1ª gale
+2025-04-23 20:31:59,222 - INFO - Vamos para o 2ª gale
+2025-04-23 20:32:33,568 - INFO - Resultado: WIN
+2025-04-23 20:33:07,903 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 20:35:45,199 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 20:36:22,599 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:36:57,259 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 20:37:31,707 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 20:38:08,369 - INFO - Resultado: EMPATE
+2025-04-23 20:41:07,204 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:43:30,359 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:44:48,608 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 20:45:29,244 - INFO - Vamos para o 1ª gale
+2025-04-23 20:46:03,836 - INFO - Resultado: WIN
+2025-04-23 20:46:42,965 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 20:47:17,619 - INFO - Resultado: WIN
+2025-04-23 20:48:01,150 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 20:48:37,870 - INFO - Vamos para o 1ª gale
+2025-04-23 20:49:52,859 - INFO - Vamos para o 2ª gale
+2025-04-23 20:50:59,423 - ERROR - Erro ao deletar mensagem: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+2025-04-23 20:50:59,424 - INFO - Resultado: LOSS
+2025-04-23 20:51:09,498 - ERROR - Erro ao deletar mensagem: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message to delete not found
+2025-04-23 20:51:09,501 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:51:50,740 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 20:52:29,736 - INFO - Resultado: WIN
+2025-04-23 20:53:04,663 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 20:53:41,623 - INFO - Resultado: EMPATE
+2025-04-23 20:56:34,314 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 20:57:07,398 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 20:57:41,749 - INFO - Vamos para o 1ª gale
+2025-04-23 20:58:14,454 - INFO - Vamos para o 2ª gale
+2025-04-23 20:58:47,310 - INFO - Resultado: LOSS
+2025-04-23 20:59:21,030 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 20:59:55,564 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 21:00:29,846 - INFO - Resultado: WIN
+2025-04-23 21:04:24,389 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:04:59,137 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:05:31,598 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 21:06:03,595 - INFO - Resultado: WIN
+2025-04-23 21:06:36,299 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:07:12,547 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 21:07:42,721 - INFO - Resultado: WIN
+2025-04-23 21:08:17,812 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:09:53,878 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:10:27,054 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:11:00,690 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:11:34,376 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 21:12:06,774 - INFO - Resultado: WIN
+2025-04-23 21:12:41,243 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 21:13:13,776 - INFO - Resultado: EMPATE
+2025-04-23 21:14:54,672 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:15:28,753 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 21:15:59,184 - INFO - Vamos para o 1ª gale
+2025-04-23 21:16:34,229 - INFO - Vamos para o 2ª gale
+2025-04-23 21:17:06,675 - INFO - Resultado: WIN
+2025-04-23 21:17:39,654 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 21:18:12,739 - INFO - Resultado: EMPATE
+2025-04-23 21:19:52,646 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:20:27,155 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:21:01,716 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 21:21:33,742 - INFO - Resultado: WIN
+2025-04-23 21:22:07,660 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 21:22:41,885 - INFO - Resultado: EMPATE
+2025-04-23 21:23:46,292 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:24:21,049 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:24:57,660 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:25:30,072 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 21:26:04,277 - INFO - Vamos para o 1ª gale
+2025-04-23 21:26:36,815 - INFO - Resultado: WIN
+2025-04-23 21:27:09,310 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 21:27:43,427 - INFO - Resultado: WIN
+2025-04-23 21:28:17,217 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:28:51,627 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 21:29:28,291 - INFO - Resultado: EMPATE
+2025-04-23 21:31:06,363 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:31:41,088 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 21:32:13,116 - INFO - Resultado: EMPATE
+2025-04-23 21:33:19,311 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:33:52,679 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 21:34:27,197 - INFO - Resultado: WIN
+2025-04-23 21:35:00,217 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:35:33,863 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:36:08,403 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 21:36:42,494 - INFO - Resultado: EMPATE
+2025-04-23 21:37:49,391 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:38:22,312 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:38:56,752 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 21:39:26,759 - INFO - Vamos para o 1ª gale
+2025-04-23 21:40:01,302 - INFO - Vamos para o 2ª gale
+2025-04-23 21:40:35,734 - INFO - Resultado: EMPATE
+2025-04-23 21:42:53,620 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:43:26,118 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 21:43:58,746 - INFO - Vamos para o 1ª gale
+2025-04-23 21:44:36,023 - INFO - Vamos para o 2ª gale
+2025-04-23 21:45:06,559 - INFO - Resultado: LOSS
+2025-04-23 21:47:53,249 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:48:26,183 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 21:48:58,725 - INFO - Vamos para o 1ª gale
+2025-04-23 21:50:03,716 - INFO - Vamos para o 2ª gale
+2025-04-23 21:50:38,612 - INFO - Resultado: LOSS
+2025-04-23 21:53:20,813 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:53:55,760 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 21:54:29,155 - INFO - Resultado: WIN
+2025-04-23 21:55:04,301 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 21:55:34,760 - INFO - Vamos para o 1ª gale
+2025-04-23 21:56:11,984 - INFO - Resultado: WIN
+2025-04-23 21:57:59,834 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 21:58:32,809 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 21:59:09,869 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 22:02:39,039 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 22:03:13,656 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 22:03:49,760 - INFO - Resultado: WIN
+2025-04-23 22:06:43,435 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 22:07:18,176 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 22:07:54,716 - INFO - Resultado: WIN
+2025-04-23 22:08:29,295 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 22:09:06,469 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 22:09:41,296 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 22:10:15,832 - INFO - Vamos para o 1ª gale
+2025-04-23 22:10:50,604 - INFO - Resultado: WIN
+2025-04-23 22:11:25,547 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 22:11:58,111 - INFO - Resultado: EMPATE
+2025-04-23 22:14:51,784 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 22:15:26,976 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 22:16:01,424 - INFO - Resultado: WIN
+2025-04-23 22:16:35,891 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 22:19:29,207 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 22:20:04,368 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 22:20:38,944 - INFO - Resultado: WIN
+2025-04-23 22:21:13,908 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 22:21:51,081 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 22:22:27,655 - INFO - Resultado: WIN
+2025-04-23 22:25:19,368 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 22:25:52,099 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 22:27:34,025 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 22:28:09,158 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 22:31:36,146 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 22:32:08,736 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 22:32:43,312 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 22:33:17,900 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 22:33:52,178 - INFO - Vamos para o 1ª gale
+2025-04-23 22:34:58,397 - INFO - Vamos para o 2ª gale
+2025-04-23 22:35:32,760 - INFO - Resultado: WIN
+2025-04-23 22:36:06,958 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 22:36:38,766 - INFO - Vamos para o 1ª gale
+2025-04-23 22:37:13,446 - INFO - Vamos para o 2ª gale
+2025-04-23 22:37:50,446 - INFO - Resultado: LOSS
+2025-04-23 22:39:33,258 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 22:40:05,819 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 22:40:40,605 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 22:41:45,118 - INFO - Resultado: WIN
+2025-04-23 22:42:20,112 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 22:42:54,601 - INFO - Resultado: WIN
+2025-04-23 22:43:29,132 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 22:44:04,066 - INFO - Resultado: WIN
+2025-04-23 22:45:14,119 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 22:45:48,136 - INFO - Vamos para o 1ª gale
+2025-04-23 22:46:24,512 - INFO - Resultado: WIN
+2025-04-23 22:46:56,885 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 22:47:31,072 - INFO - Resultado: WIN
+2025-04-23 22:48:05,764 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 22:48:38,097 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 22:49:12,500 - INFO - Resultado: WIN
+2025-04-23 22:50:21,839 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 22:50:53,858 - INFO - Vamos para o 1ª gale
+2025-04-23 22:51:29,193 - INFO - Vamos para o 2ª gale
+2025-04-23 22:52:04,029 - INFO - Resultado: WIN
+2025-04-23 22:52:38,767 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 22:53:10,857 - INFO - Resultado: WIN
+2025-04-23 22:53:45,376 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 22:54:20,218 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 22:55:30,955 - INFO - Vamos para o 1ª gale
+2025-04-23 22:56:05,629 - INFO - Vamos para o 2ª gale
+2025-04-23 22:56:40,697 - INFO - Resultado: WIN
+2025-04-23 22:57:13,567 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 22:57:50,049 - INFO - Resultado: EMPATE
+2025-04-23 23:00:41,472 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 23:01:18,476 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 23:01:52,569 - INFO - Vamos para o 1ª gale
+2025-04-23 23:02:27,311 - INFO - Vamos para o 2ª gale
+2025-04-23 23:03:03,602 - INFO - Resultado: WIN
+2025-04-23 23:03:38,053 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 23:04:14,630 - INFO - Vamos para o 1ª gale
+2025-04-23 23:04:49,063 - INFO - Resultado: WIN
+2025-04-23 23:05:23,383 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 23:05:57,399 - INFO - Resultado: WIN
+2025-04-23 23:06:33,961 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 23:07:08,391 - INFO - Resultado: WIN
+2025-04-23 23:07:42,870 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 23:08:19,709 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 23:08:56,195 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 23:09:30,383 - INFO - Resultado: WIN
+2025-04-23 23:10:07,057 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 23:10:43,562 - INFO - Vamos para o 1ª gale
+2025-04-23 23:11:22,285 - INFO - Vamos para o 2ª gale
+2025-04-23 23:11:57,232 - INFO - Resultado: LOSS
+2025-04-23 23:12:34,359 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 23:13:08,472 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 23:13:45,120 - INFO - Resultado: WIN
+2025-04-23 23:14:20,402 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 23:14:56,983 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 23:15:33,936 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 23:16:10,334 - INFO - Resultado: EMPATE
+2025-04-23 23:17:57,641 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 23:18:36,819 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 23:19:13,746 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 23:20:29,685 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 23:21:04,064 - INFO - Vamos para o 1ª gale
+2025-04-23 23:21:39,061 - INFO - Vamos para o 2ª gale
+2025-04-23 23:22:17,849 - INFO - Resultado: WIN
+2025-04-23 23:22:52,538 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 23:23:29,581 - INFO - Resultado: EMPATE
+2025-04-23 23:27:27,280 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 23:27:58,013 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 23:28:32,557 - INFO - Resultado: WIN
+2025-04-23 23:29:05,488 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 23:29:38,269 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 23:30:10,937 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 23:30:43,578 - INFO - Resultado: WIN
+2025-04-23 23:31:18,871 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 23:31:53,533 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 23:32:25,935 - INFO - Resultado: WIN
+2025-04-23 23:32:58,396 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 23:33:31,889 - INFO - Resultado: WIN
+2025-04-23 23:34:06,295 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 23:35:12,035 - INFO - Vamos para o 1ª gale
+2025-04-23 23:35:46,967 - INFO - Resultado: WIN
+2025-04-23 23:36:18,450 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 23:36:53,386 - INFO - Resultado: WIN
+2025-04-23 23:37:29,801 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 23:38:01,837 - INFO - Resultado: WIN
+2025-04-23 23:40:16,415 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 23:40:48,616 - INFO - Resultado: WIN
+2025-04-23 23:41:23,467 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 23:41:55,820 - INFO - Resultado: WIN
+2025-04-23 23:42:28,152 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 23:43:03,684 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 23:43:38,373 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-23 23:44:08,332 - INFO - Resultado: WIN
+2025-04-23 23:44:42,977 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 23:45:17,154 - INFO - Resultado: WIN
+2025-04-23 23:45:49,710 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 23:46:22,524 - INFO - Resultado: WIN
+2025-04-23 23:46:56,961 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 23:47:30,866 - INFO - Resultado: WIN
+2025-04-23 23:48:03,244 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 23:48:35,652 - INFO - Vamos para o 1ª gale
+2025-04-23 23:49:10,152 - INFO - Vamos para o 2ª gale
+2025-04-23 23:49:44,630 - INFO - Resultado: WIN
+2025-04-23 23:50:17,076 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-23 23:50:51,432 - INFO - Resultado: EMPATE
+2025-04-23 23:53:05,329 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 23:53:38,567 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 23:54:13,375 - INFO - Vamos para o 1ª gale
+2025-04-23 23:54:45,998 - INFO - Resultado: EMPATE
+2025-04-23 23:55:53,265 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-23 23:56:34,402 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-23 23:57:11,149 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-23 23:57:49,711 - INFO - Resultado: WIN
+2025-04-23 23:58:28,711 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-23 23:59:07,375 - INFO - Vamos para o 1ª gale
+2025-04-23 23:59:45,973 - INFO - Vamos para o 2ª gale
+2025-04-24 00:00:00,232 - INFO - Reiniciando contadores diários
+2025-04-24 00:00:21,048 - INFO - Resultado: WIN
+2025-04-24 00:00:56,070 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 00:01:36,878 - INFO - Vamos para o 1ª gale
+2025-04-24 00:02:17,389 - INFO - Resultado: WIN
+2025-04-24 00:06:45,351 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 00:07:27,123 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 00:08:05,959 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 00:08:41,714 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 00:09:24,003 - INFO - Resultado: WIN
+2025-04-24 00:10:00,334 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 00:10:38,683 - INFO - Resultado: WIN
+2025-04-24 00:11:17,741 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 00:11:57,974 - INFO - Vamos para o 1ª gale
+2025-04-24 00:12:34,452 - INFO - Vamos para o 2ª gale
+2025-04-24 00:13:11,130 - INFO - Resultado: EMPATE
+2025-04-24 00:18:18,274 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 00:18:58,865 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 00:19:37,766 - INFO - Resultado: WIN
+2025-04-24 00:20:08,491 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:09,505 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855110>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:10,522 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:11,530 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855810>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:12,544 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855f90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:13,564 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:14,577 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:15,598 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856450>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:16,620 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058569d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:17,630 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:18,650 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:19,664 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058546d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:20,680 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:21,700 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856ad0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:22,721 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856610>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:23,740 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855b10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:24,761 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:25,770 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:26,789 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855910>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:27,810 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854a50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:28,826 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:29,845 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856e50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:30,864 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855a90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:31,873 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854450>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:32,889 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855910>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:33,905 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855bd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:34,920 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856a10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:35,927 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855450>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:36,945 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856f50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:37,953 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856cd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:38,972 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058570d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:39,988 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854450>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:40,998 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856790>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:42,018 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855410>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:43,037 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856d50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:44,051 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105857010>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:45,063 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854dd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:46,078 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856f90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:47,099 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855950>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:48,111 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058543d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:49,126 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058544d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:50,146 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058542d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:51,167 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856ed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:52,186 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854090>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:53,204 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856850>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:54,224 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105857090>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:55,244 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855210>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:56,251 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855b50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:57,270 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105857050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:58,283 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:20:59,293 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058561d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:00,301 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856c10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:01,312 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:02,320 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856910>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:03,336 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854c10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:04,350 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:05,361 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058555d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:06,376 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856f50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:07,388 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856cd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:08,396 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058570d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:09,408 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854450>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:10,420 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856790>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:11,427 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855410>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:12,438 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856d50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:13,450 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105857010>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:14,462 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854dd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:15,473 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856f90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:16,482 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105855950>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:17,492 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058543d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:18,501 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058544d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:19,513 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1058542d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:20,525 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856ed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:21,536 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105854090>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:22,549 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Max retries exceeded with url: /bacbo-live (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105856850>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-04-24 00:21:24,656 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 00:21:35,732 - INFO - Resultado: WIN
+2025-04-24 00:22:15,797 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 00:23:04,788 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Read timed out. (read timeout=10)
+2025-04-24 00:23:07,214 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 00:23:37,357 - INFO - Vamos para o 1ª gale
+2025-04-24 00:24:04,279 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Read timed out. (read timeout=10)
+2025-04-24 00:24:15,358 - INFO - Resultado: WIN
+2025-04-24 00:42:34,630 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 00:42:42,205 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 00:59:30,426 - INFO - Vamos para o 1ª gale
+2025-04-24 01:00:00,671 - INFO - Vamos para o 2ª gale
+2025-04-24 01:00:35,243 - INFO - Resultado: WIN
+2025-04-24 01:01:07,623 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 01:01:41,922 - INFO - Vamos para o 1ª gale
+2025-04-24 01:02:14,376 - INFO - Vamos para o 2ª gale
+2025-04-24 01:19:03,931 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Read timed out. (read timeout=10)
+2025-04-24 01:19:09,432 - INFO - Resultado: LOSS
+2025-04-24 01:21:10,465 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 01:22:50,461 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 01:23:22,673 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 01:23:54,482 - INFO - Vamos para o 1ª gale
+2025-04-24 01:24:28,767 - INFO - Vamos para o 2ª gale
+2025-04-24 01:25:01,124 - INFO - Resultado: WIN
+2025-04-24 01:27:12,564 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 01:27:44,919 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 01:28:19,412 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 01:28:51,745 - INFO - Vamos para o 1ª gale
+2025-04-24 01:29:26,664 - INFO - Vamos para o 2ª gale
+2025-04-24 01:29:58,787 - INFO - Resultado: EMPATE
+2025-04-24 01:31:05,070 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 01:31:37,235 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 01:32:10,072 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 01:32:44,026 - INFO - Resultado: WIN
+2025-04-24 01:33:17,064 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 01:34:56,578 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 01:35:31,417 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 01:36:03,617 - INFO - Resultado: WIN
+2025-04-24 01:36:38,084 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 01:37:10,403 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 01:37:42,909 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 01:38:16,945 - INFO - Vamos para o 1ª gale
+2025-04-24 01:38:49,738 - INFO - Resultado: WIN
+2025-04-24 01:39:22,118 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 01:39:55,449 - INFO - Resultado: EMPATE
+2025-04-24 01:41:02,713 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 01:41:35,143 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 01:42:05,664 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 01:42:40,381 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 01:43:12,791 - INFO - Resultado: WIN
+2025-04-24 01:43:45,805 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 01:44:19,932 - INFO - Vamos para o 1ª gale
+2025-04-24 01:44:54,182 - INFO - Resultado: WIN
+2025-04-24 01:45:26,417 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 01:46:00,732 - INFO - Resultado: WIN
+2025-04-24 01:46:33,104 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 01:48:14,806 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 01:48:47,279 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 01:49:19,120 - INFO - Resultado: EMPATE
+2025-04-24 01:50:56,654 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 01:51:31,285 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 01:52:04,420 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 01:52:38,728 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 01:53:10,959 - INFO - Vamos para o 1ª gale
+2025-04-24 01:53:45,437 - INFO - Resultado: EMPATE
+2025-04-24 01:57:22,089 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 01:58:02,952 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 01:58:45,386 - INFO - Resultado: WIN
+2025-04-24 01:59:22,385 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:01:27,982 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:02:09,436 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:02:50,466 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 02:03:29,406 - INFO - Vamos para o 1ª gale
+2025-04-24 02:04:08,564 - INFO - Vamos para o 2ª gale
+2025-04-24 02:04:47,905 - INFO - Resultado: WIN
+2025-04-24 02:06:07,158 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:06:44,411 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:07:21,257 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 02:08:02,064 - INFO - Resultado: WIN
+2025-04-24 02:08:40,963 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:09:19,904 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 02:09:56,593 - INFO - Resultado: EMPATE
+2025-04-24 02:13:13,813 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:13:52,978 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:14:31,969 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:15:08,797 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 02:15:45,566 - INFO - Vamos para o 1ª gale
+2025-04-24 02:16:24,838 - INFO - Resultado: WIN
+2025-04-24 02:17:06,106 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 02:17:42,971 - INFO - Resultado: WIN
+2025-04-24 02:18:22,088 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 02:19:04,848 - INFO - Vamos para o 1ª gale
+2025-04-24 02:19:43,470 - INFO - Resultado: WIN
+2025-04-24 02:20:20,034 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 02:21:00,707 - INFO - Vamos para o 1ª gale
+2025-04-24 02:21:37,074 - INFO - Resultado: EMPATE
+2025-04-24 02:22:57,805 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:23:36,953 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 02:24:15,162 - INFO - Resultado: WIN
+2025-04-24 02:24:53,862 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:25:32,312 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:26:09,166 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 02:26:41,395 - INFO - Vamos para o 1ª gale
+2025-04-24 02:27:18,451 - INFO - Resultado: WIN
+2025-04-24 02:27:48,772 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:29:29,176 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:30:03,890 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 02:30:38,146 - INFO - Resultado: WIN
+2025-04-24 02:31:10,942 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:31:45,387 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 02:32:17,803 - INFO - Resultado: WIN
+2025-04-24 02:32:50,286 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 02:33:24,988 - INFO - Resultado: WIN
+2025-04-24 02:33:59,624 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 02:34:34,475 - INFO - Resultado: WIN
+2025-04-24 02:35:08,995 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 02:35:45,452 - INFO - Vamos para o 1ª gale
+2025-04-24 02:36:22,142 - INFO - Vamos para o 2ª gale
+2025-04-24 02:36:54,887 - INFO - Resultado: EMPATE
+2025-04-24 02:39:10,154 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:39:42,823 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:41:25,627 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:42:00,476 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:42:33,197 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:45:25,373 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:45:58,709 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 02:46:33,054 - INFO - Resultado: WIN
+2025-04-24 02:47:10,001 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 02:47:44,648 - INFO - Resultado: WIN
+2025-04-24 02:48:20,576 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 02:48:50,876 - INFO - Vamos para o 1ª gale
+2025-04-24 02:49:25,629 - INFO - Vamos para o 2ª gale
+2025-04-24 02:49:58,091 - INFO - Resultado: WIN
+2025-04-24 02:50:32,572 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 02:51:08,714 - INFO - Resultado: WIN
+2025-04-24 02:51:43,439 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:52:18,206 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 02:52:50,318 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:53:22,559 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 02:53:58,886 - INFO - Vamos para o 1ª gale
+2025-04-24 02:54:33,348 - INFO - Vamos para o 2ª gale
+2025-04-24 02:55:08,740 - INFO - Resultado: WIN
+2025-04-24 02:55:41,188 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 02:56:16,206 - INFO - Resultado: WIN
+2025-04-24 02:56:51,335 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 02:57:25,736 - INFO - Resultado: WIN
+2025-04-24 02:58:00,494 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 02:58:37,330 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 02:59:09,569 - INFO - Resultado: WIN
+2025-04-24 02:59:44,285 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 03:00:18,649 - INFO - Resultado: WIN
+2025-04-24 03:04:49,794 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:05:24,101 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 03:05:58,307 - INFO - Resultado: WIN
+2025-04-24 03:06:33,068 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:07:07,667 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 03:10:29,312 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 03:11:05,934 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:12:48,315 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 03:13:21,088 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 03:13:55,354 - INFO - Resultado: EMPATE
+2025-04-24 03:15:37,844 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:16:12,824 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 03:16:47,382 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:17:19,839 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 03:17:54,238 - INFO - Resultado: WIN
+2025-04-24 03:18:31,368 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 03:19:05,903 - INFO - Vamos para o 1ª gale
+2025-04-24 03:19:40,483 - INFO - Resultado: EMPATE
+2025-04-24 03:20:51,009 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 03:21:25,201 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:21:59,541 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 03:22:33,462 - INFO - Resultado: WIN
+2025-04-24 03:25:24,706 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 03:25:57,223 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 03:26:33,621 - INFO - Vamos para o 1ª gale
+2025-04-24 03:27:13,786 - INFO - Resultado: EMPATE
+2025-04-24 03:35:13,076 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 03:36:22,213 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 03:36:56,840 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 03:37:30,928 - INFO - Resultado: WIN
+2025-04-24 03:38:05,437 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 03:38:39,376 - INFO - Resultado: WIN
+2025-04-24 03:40:53,753 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:41:28,190 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 03:42:02,361 - INFO - Vamos para o 1ª gale
+2025-04-24 03:42:34,968 - INFO - Vamos para o 2ª gale
+2025-04-24 03:43:07,548 - INFO - Resultado: WIN
+2025-04-24 03:44:49,408 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:45:23,842 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 03:45:58,488 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 03:46:32,861 - INFO - Resultado: EMPATE
+2025-04-24 03:52:33,519 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:54:17,722 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:54:52,112 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 03:55:26,447 - INFO - Resultado: WIN
+2025-04-24 03:56:01,260 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 03:56:35,639 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 03:57:08,246 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 03:57:53,391 - INFO - Resultado: EMPATE
+2025-04-24 03:59:51,058 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 04:00:34,216 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:01:11,246 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 04:01:50,317 - INFO - Vamos para o 1ª gale
+2025-04-24 04:02:31,219 - INFO - Resultado: WIN
+2025-04-24 04:03:16,362 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 04:03:53,177 - INFO - Vamos para o 1ª gale
+2025-04-24 04:04:34,015 - INFO - Resultado: WIN
+2025-04-24 04:07:08,301 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:07:51,185 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 04:08:36,678 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:09:22,142 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 04:10:00,747 - INFO - Vamos para o 1ª gale
+2025-04-24 04:10:50,621 - INFO - Vamos para o 2ª gale
+2025-04-24 04:11:29,786 - INFO - Resultado: WIN
+2025-04-24 04:12:08,888 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 04:12:51,868 - INFO - Vamos para o 1ª gale
+2025-04-24 04:13:35,876 - INFO - Resultado: WIN
+2025-04-24 04:14:14,595 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 04:14:57,808 - INFO - Resultado: WIN
+2025-04-24 04:19:31,875 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:20:15,162 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 04:20:51,954 - INFO - Resultado: WIN
+2025-04-24 04:21:37,066 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:22:17,775 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 04:22:58,187 - INFO - Vamos para o 1ª gale
+2025-04-24 04:23:34,479 - INFO - Vamos para o 2ª gale
+2025-04-24 04:24:11,326 - INFO - Resultado: LOSS
+2025-04-24 04:24:49,890 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 04:25:30,600 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 04:26:04,532 - INFO - Resultado: WIN
+2025-04-24 04:26:40,845 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 04:27:15,412 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:27:50,128 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 04:28:23,260 - INFO - Vamos para o 1ª gale
+2025-04-24 04:28:58,090 - INFO - Resultado: WIN
+2025-04-24 04:29:36,954 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 04:30:11,315 - INFO - Resultado: WIN
+2025-04-24 04:32:25,984 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:33:03,035 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 04:33:35,391 - INFO - Vamos para o 1ª gale
+2025-04-24 04:34:12,329 - INFO - Vamos para o 2ª gale
+2025-04-24 04:34:47,057 - INFO - Resultado: LOSS
+2025-04-24 04:41:02,087 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:41:36,896 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 04:42:11,411 - INFO - Resultado: WIN
+2025-04-24 04:42:44,074 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:43:18,993 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 04:43:53,246 - INFO - Resultado: WIN
+2025-04-24 04:44:28,076 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:46:09,812 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:48:24,456 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 04:52:58,843 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:54:38,525 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 04:55:13,565 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 04:55:47,905 - INFO - Vamos para o 1ª gale
+2025-04-24 04:56:22,459 - INFO - Vamos para o 2ª gale
+2025-04-24 04:56:55,037 - INFO - Resultado: WIN
+2025-04-24 04:57:29,638 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 04:58:01,809 - INFO - Vamos para o 1ª gale
+2025-04-24 04:58:36,424 - INFO - Resultado: WIN
+2025-04-24 04:59:08,923 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 04:59:41,327 - INFO - Resultado: EMPATE
+2025-04-24 05:00:48,297 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:01:22,912 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 05:01:55,370 - INFO - Resultado: WIN
+2025-04-24 05:02:29,982 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:03:02,558 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:05:46,694 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:06:56,243 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:07:29,097 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 05:08:02,626 - INFO - Vamos para o 1ª gale
+2025-04-24 05:08:37,602 - INFO - Vamos para o 2ª gale
+2025-04-24 05:09:10,429 - INFO - Resultado: EMPATE
+2025-04-24 05:10:54,157 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:11:59,265 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:12:34,379 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:13:07,128 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:13:42,042 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 05:14:14,398 - INFO - Vamos para o 1ª gale
+2025-04-24 05:14:49,251 - INFO - Resultado: WIN
+2025-04-24 05:15:21,876 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 05:15:55,812 - INFO - Vamos para o 1ª gale
+2025-04-24 05:16:29,410 - INFO - Vamos para o 2ª gale
+2025-04-24 05:17:06,120 - INFO - Resultado: EMPATE
+2025-04-24 05:18:44,631 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:21:36,292 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:22:10,899 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:22:45,541 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:23:24,088 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 05:23:58,223 - INFO - Vamos para o 1ª gale
+2025-04-24 05:24:34,509 - INFO - Vamos para o 2ª gale
+2025-04-24 05:25:08,726 - INFO - Resultado: EMPATE
+2025-04-24 05:28:03,583 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:28:38,494 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 05:29:12,535 - INFO - Resultado: WIN
+2025-04-24 05:29:49,129 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:30:23,584 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:30:58,819 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 05:31:33,019 - INFO - Vamos para o 1ª gale
+2025-04-24 05:32:08,913 - INFO - Resultado: WIN
+2025-04-24 05:32:43,305 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 05:33:17,271 - INFO - Vamos para o 1ª gale
+2025-04-24 05:33:53,911 - INFO - Vamos para o 2ª gale
+2025-04-24 05:34:28,294 - INFO - Resultado: WIN
+2025-04-24 05:35:04,552 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 05:35:36,613 - INFO - Vamos para o 1ª gale
+2025-04-24 05:36:12,925 - INFO - Vamos para o 2ª gale
+2025-04-24 05:36:47,243 - INFO - Resultado: WIN
+2025-04-24 05:37:22,290 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 05:37:56,556 - INFO - Vamos para o 1ª gale
+2025-04-24 05:38:33,487 - INFO - Resultado: WIN
+2025-04-24 05:39:07,918 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 05:39:42,327 - INFO - Resultado: WIN
+2025-04-24 05:40:18,777 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 05:40:51,031 - INFO - Vamos para o 1ª gale
+2025-04-24 05:41:27,585 - INFO - Vamos para o 2ª gale
+2025-04-24 05:42:02,082 - INFO - Resultado: WIN
+2025-04-24 05:43:44,496 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:44:21,161 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:44:53,909 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:45:32,432 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 05:46:06,635 - INFO - Resultado: WIN
+2025-04-24 05:48:25,619 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 05:49:00,804 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 05:49:34,964 - INFO - Vamos para o 1ª gale
+2025-04-24 05:50:09,418 - INFO - Vamos para o 2ª gale
+2025-04-24 05:50:42,654 - INFO - Resultado: LOSS
+2025-04-24 05:51:52,426 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:52:26,577 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 05:53:02,492 - INFO - Resultado: WIN
+2025-04-24 05:53:34,603 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:54:10,913 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 05:54:44,882 - INFO - Vamos para o 1ª gale
+2025-04-24 05:55:19,248 - INFO - Resultado: WIN
+2025-04-24 05:55:55,743 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 05:56:29,774 - INFO - Vamos para o 1ª gale
+2025-04-24 05:57:03,938 - INFO - Vamos para o 2ª gale
+2025-04-24 05:57:40,949 - INFO - Resultado: LOSS
+2025-04-24 05:58:51,275 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 05:59:26,098 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 06:00:00,446 - INFO - Resultado: WIN
+2025-04-24 06:00:34,903 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 06:01:09,414 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 06:01:44,401 - INFO - Vamos para o 1ª gale
+2025-04-24 06:17:37,227 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Read timed out. (read timeout=10)
+2025-04-24 06:17:41,902 - INFO - Resultado: WIN
+2025-04-24 06:17:57,389 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 06:18:32,400 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 06:19:06,888 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 06:19:40,997 - INFO - Resultado: EMPATE
+2025-04-24 06:22:38,092 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 06:23:12,805 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 06:23:47,034 - INFO - Resultado: WIN
+2025-04-24 06:24:23,478 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 06:25:00,135 - INFO - Resultado: WIN
+2025-04-24 06:25:34,791 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 06:26:09,775 - INFO - Resultado: WIN
+2025-04-24 06:26:44,213 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 06:27:20,603 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 06:27:57,913 - INFO - Resultado: WIN
+2025-04-24 06:28:34,651 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 06:29:10,616 - INFO - Resultado: WIN
+2025-04-24 06:29:45,991 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 06:30:22,140 - INFO - Resultado: EMPATE
+2025-04-24 06:32:07,585 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 06:32:42,348 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 06:33:16,985 - INFO - Resultado: WIN
+2025-04-24 06:33:53,860 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 06:34:30,140 - INFO - Vamos para o 1ª gale
+2025-04-24 06:35:04,968 - INFO - Resultado: WIN
+2025-04-24 06:35:41,675 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 06:36:15,873 - INFO - Vamos para o 1ª gale
+2025-04-24 06:36:54,730 - INFO - Vamos para o 2ª gale
+2025-04-24 06:37:29,146 - INFO - Resultado: LOSS
+2025-04-24 06:39:46,088 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 06:40:24,920 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 06:40:59,167 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 06:41:33,363 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 06:42:09,554 - INFO - Vamos para o 1ª gale
+2025-04-24 06:42:41,970 - INFO - Resultado: WIN
+2025-04-24 06:43:16,841 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 06:43:53,280 - INFO - Resultado: EMPATE
+2025-04-24 06:45:42,207 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 06:46:15,128 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 06:46:49,394 - INFO - Resultado: EMPATE
+2025-04-24 06:48:37,010 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 06:49:13,763 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 06:49:46,020 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 06:50:22,748 - INFO - Resultado: WIN
+2025-04-24 06:50:57,770 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 06:51:30,439 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 06:52:07,099 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 06:52:43,446 - INFO - Vamos para o 1ª gale
+2025-04-24 06:53:20,254 - INFO - Resultado: EMPATE
+2025-04-24 06:55:04,031 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 06:55:43,168 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 06:56:24,141 - INFO - Vamos para o 1ª gale
+2025-04-24 06:57:46,046 - INFO - Resultado: WIN
+2025-04-24 06:58:27,406 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 06:59:06,420 - INFO - Vamos para o 1ª gale
+2025-04-24 06:59:47,615 - INFO - Resultado: WIN
+2025-04-24 07:00:27,111 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 07:01:06,534 - INFO - Vamos para o 1ª gale
+2025-04-24 07:01:47,728 - INFO - Resultado: WIN
+2025-04-24 07:02:35,217 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:03:18,428 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 07:03:57,562 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 07:04:38,473 - INFO - Resultado: WIN
+2025-04-24 07:05:21,429 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 07:06:04,130 - INFO - Resultado: WIN
+2025-04-24 07:07:25,043 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 07:08:07,514 - INFO - Vamos para o 1ª gale
+2025-04-24 07:08:48,428 - INFO - Resultado: EMPATE
+2025-04-24 07:11:36,019 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:12:19,718 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 07:12:58,873 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:13:40,065 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 07:14:18,591 - INFO - Vamos para o 1ª gale
+2025-04-24 07:15:01,747 - INFO - Vamos para o 2ª gale
+2025-04-24 07:15:45,038 - INFO - Resultado: LOSS
+2025-04-24 07:16:26,098 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:17:07,703 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 07:17:46,644 - INFO - Vamos para o 1ª gale
+2025-04-24 07:18:25,617 - INFO - Vamos para o 2ª gale
+2025-04-24 07:19:07,030 - INFO - Resultado: LOSS
+2025-04-24 07:20:26,791 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 07:21:07,812 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 07:21:48,901 - INFO - Resultado: WIN
+2025-04-24 07:22:25,970 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 07:23:09,274 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:23:47,683 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 07:24:30,592 - INFO - Vamos para o 1ª gale
+2025-04-24 07:25:09,704 - INFO - Vamos para o 2ª gale
+2025-04-24 07:25:44,490 - INFO - Resultado: LOSS
+2025-04-24 07:27:57,850 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:28:30,451 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 07:29:05,230 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:31:50,500 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:32:23,581 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 07:32:58,086 - INFO - Resultado: WIN
+2025-04-24 07:33:30,842 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 07:34:07,515 - INFO - Resultado: EMPATE
+2025-04-24 07:35:16,658 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:35:51,199 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 07:36:22,450 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 07:37:30,117 - INFO - Vamos para o 1ª gale
+2025-04-24 07:38:02,382 - INFO - Vamos para o 2ª gale
+2025-04-24 07:38:34,666 - INFO - Resultado: WIN
+2025-04-24 07:39:08,993 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 07:39:43,068 - INFO - Resultado: EMPATE
+2025-04-24 07:44:09,385 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 07:44:40,504 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 07:45:14,927 - INFO - Resultado: WIN
+2025-04-24 07:45:45,462 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 07:47:26,290 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:47:58,531 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 07:48:32,614 - INFO - Resultado: WIN
+2025-04-24 07:49:06,962 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 07:49:41,421 - INFO - Vamos para o 1ª gale
+2025-04-24 07:50:16,236 - INFO - Vamos para o 2ª gale
+2025-04-24 07:50:47,047 - INFO - Resultado: WIN
+2025-04-24 07:51:19,725 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 07:51:54,133 - INFO - Resultado: WIN
+2025-04-24 07:52:27,303 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 07:52:59,464 - INFO - Vamos para o 1ª gale
+2025-04-24 07:53:33,958 - INFO - Vamos para o 2ª gale
+2025-04-24 07:54:08,317 - INFO - Resultado: WIN
+2025-04-24 07:55:48,679 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 07:56:21,513 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 07:56:55,993 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 07:57:27,947 - INFO - Vamos para o 1ª gale
+2025-04-24 07:58:00,258 - INFO - Vamos para o 2ª gale
+2025-04-24 07:58:34,535 - INFO - Resultado: WIN
+2025-04-24 07:59:06,619 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 07:59:40,508 - INFO - Resultado: WIN
+2025-04-24 08:00:12,632 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 08:00:44,874 - INFO - Vamos para o 1ª gale
+2025-04-24 08:01:19,396 - INFO - Vamos para o 2ª gale
+2025-04-24 08:01:52,021 - INFO - Resultado: LOSS
+2025-04-24 08:02:56,116 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 08:03:30,397 - INFO - Vamos para o 1ª gale
+2025-04-24 08:04:03,267 - INFO - Resultado: WIN
+2025-04-24 08:06:49,518 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 08:07:24,075 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 08:07:55,793 - INFO - Resultado: WIN
+2025-04-24 08:08:30,028 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 08:09:06,033 - INFO - Resultado: EMPATE
+2025-04-24 08:11:16,979 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 08:11:49,899 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 08:12:24,013 - INFO - Vamos para o 1ª gale
+2025-04-24 08:12:56,158 - INFO - Resultado: WIN
+2025-04-24 08:13:28,401 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 08:14:02,460 - INFO - Resultado: WIN
+2025-04-24 08:14:34,881 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 08:15:08,913 - INFO - Resultado: EMPATE
+2025-04-24 08:32:21,409 - ERROR - Erro na requisição: HTTPConnectionPool(host='rodrigodevapi.duckdns.org', port=1010): Read timed out. (read timeout=10)
+2025-04-24 08:32:23,677 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 08:32:42,258 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 08:33:22,249 - INFO - Resultado: WIN
+2025-04-24 08:42:29,780 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 08:43:08,791 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 08:43:47,506 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 08:44:25,911 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 08:45:03,956 - INFO - Resultado: WIN
+2025-04-24 08:45:42,303 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 08:46:22,505 - INFO - Vamos para o 1ª gale
+2025-04-24 08:47:03,006 - INFO - Resultado: WIN
+2025-04-24 08:47:41,566 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 08:48:20,117 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 08:48:58,457 - INFO - Resultado: WIN
+2025-04-24 08:49:38,295 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 08:50:18,732 - INFO - Resultado: WIN
+2025-04-24 08:56:19,232 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 08:56:54,453 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 08:57:28,668 - INFO - Resultado: EMPATE
+2025-04-24 08:58:37,539 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 08:59:12,478 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 08:59:46,966 - INFO - Vamos para o 1ª gale
+2025-04-24 09:00:21,910 - INFO - Resultado: WIN
+2025-04-24 09:00:56,348 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 09:01:32,750 - INFO - Resultado: EMPATE
+2025-04-24 09:03:19,153 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 09:05:07,223 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 09:05:43,574 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 09:06:17,753 - INFO - Vamos para o 1ª gale
+2025-04-24 09:06:54,721 - INFO - Resultado: EMPATE
+2025-04-24 09:08:04,901 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 09:08:41,825 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 09:09:14,744 - INFO - Vamos para o 1ª gale
+2025-04-24 09:09:49,661 - INFO - Resultado: WIN
+2025-04-24 09:10:24,543 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 09:11:01,801 - INFO - Resultado: WIN
+2025-04-24 09:11:34,576 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 09:13:17,936 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 09:13:52,650 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 09:14:29,693 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 09:15:04,087 - INFO - Vamos para o 1ª gale
+2025-04-24 09:15:38,463 - INFO - Resultado: EMPATE
+2025-04-24 09:19:42,107 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 09:21:25,518 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 09:22:02,539 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 09:23:13,566 - INFO - Resultado: EMPATE
+2025-04-24 09:25:00,882 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 09:25:39,830 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 09:26:18,774 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 09:26:53,931 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 09:27:28,787 - INFO - Vamos para o 1ª gale
+2025-04-24 09:28:03,625 - INFO - Vamos para o 2ª gale
+2025-04-24 09:28:39,369 - INFO - Resultado: WIN
+2025-04-24 09:29:14,223 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 09:29:51,803 - INFO - Vamos para o 1ª gale
+2025-04-24 09:30:26,754 - INFO - Resultado: WIN
+2025-04-24 09:31:03,948 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 09:31:38,406 - INFO - Resultado: WIN
+2025-04-24 09:33:24,699 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 09:36:22,323 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 09:36:58,793 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 09:37:35,172 - INFO - Resultado: WIN
+2025-04-24 09:38:12,087 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 09:38:46,860 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 09:39:24,168 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 09:40:00,613 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 09:40:35,304 - INFO - Resultado: EMPATE
+2025-04-24 09:43:39,155 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 09:44:14,995 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 09:44:52,343 - INFO - Vamos para o 1ª gale
+2025-04-24 09:45:29,187 - INFO - Resultado: WIN
+2025-04-24 09:46:03,874 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 09:46:41,529 - INFO - Vamos para o 1ª gale
+2025-04-24 09:47:16,170 - INFO - Vamos para o 2ª gale
+2025-04-24 09:47:52,016 - INFO - Resultado: WIN
+2025-04-24 09:48:26,939 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 09:49:02,155 - INFO - Resultado: WIN
+2025-04-24 09:55:44,245 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 09:56:22,181 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 09:56:56,704 - INFO - Vamos para o 1ª gale
+2025-04-24 09:57:35,576 - INFO - Vamos para o 2ª gale
+2025-04-24 09:58:09,957 - INFO - Resultado: LOSS
+2025-04-24 10:00:01,936 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 10:00:38,776 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 10:01:16,969 - INFO - Resultado: WIN
+2025-04-24 10:01:51,254 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 10:02:27,987 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 10:03:06,720 - INFO - Resultado: WIN
+2025-04-24 10:03:41,368 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 10:04:17,480 - INFO - Resultado: WIN
+2025-04-24 10:04:53,854 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 10:05:34,157 - INFO - Resultado: WIN
+2025-04-24 10:06:10,556 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 10:06:47,553 - INFO - Resultado: WIN
+2025-04-24 10:07:24,139 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 10:07:59,490 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 10:08:38,037 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 10:09:14,250 - INFO - Vamos para o 1ª gale
+2025-04-24 10:09:50,794 - INFO - Vamos para o 2ª gale
+2025-04-24 10:10:25,299 - INFO - Resultado: EMPATE
+2025-04-24 10:11:42,964 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 10:12:19,561 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 10:14:45,525 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 10:15:24,020 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 10:16:00,551 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 10:16:36,572 - INFO - Resultado: WIN
+2025-04-24 10:17:11,226 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 10:18:25,458 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 10:19:01,577 - INFO - Vamos para o 1ª gale
+2025-04-24 10:19:40,003 - INFO - Resultado: EMPATE
+2025-04-24 10:20:50,217 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 10:21:24,489 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 10:21:59,523 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 10:22:36,151 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 10:23:15,217 - INFO - Resultado: WIN
+2025-04-24 10:23:49,657 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 10:24:24,236 - INFO - Vamos para o 1ª gale
+2025-04-24 10:25:02,718 - INFO - Vamos para o 2ª gale
+2025-04-24 10:25:39,421 - INFO - Resultado: WIN
+2025-04-24 10:26:16,139 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 10:26:52,311 - INFO - Vamos para o 1ª gale
+2025-04-24 10:27:26,830 - INFO - Resultado: WIN
+2025-04-24 10:28:36,514 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 10:29:15,031 - INFO - Resultado: WIN
+2025-04-24 10:29:52,370 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 10:30:26,576 - INFO - Vamos para o 1ª gale
+2025-04-24 10:31:05,450 - INFO - Vamos para o 2ª gale
+2025-04-24 10:31:48,623 - INFO - Resultado: WIN
+2025-04-24 10:32:23,191 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 10:32:59,260 - INFO - Vamos para o 1ª gale
+2025-04-24 10:33:35,809 - INFO - Resultado: WIN
+2025-04-24 10:34:11,738 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 10:34:47,760 - INFO - Resultado: WIN
+2025-04-24 10:35:28,164 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 10:36:04,382 - INFO - Vamos para o 1ª gale
+2025-04-24 10:36:41,701 - INFO - Vamos para o 2ª gale
+2025-04-24 10:37:16,832 - INFO - Resultado: EMPATE
+2025-04-24 10:40:52,349 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 10:41:26,941 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 10:42:02,293 - INFO - Resultado: WIN
+2025-04-24 10:42:36,902 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 10:43:13,965 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 10:43:50,301 - INFO - Vamos para o 1ª gale
+2025-04-24 10:44:26,860 - INFO - Vamos para o 2ª gale
+2025-04-24 10:45:01,790 - INFO - Resultado: LOSS
+2025-04-24 10:46:50,158 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 10:47:27,128 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 10:48:01,577 - INFO - Vamos para o 1ª gale
+2025-04-24 10:48:38,067 - INFO - Resultado: WIN
+2025-04-24 10:49:16,516 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 10:49:51,224 - INFO - Resultado: WIN
+2025-04-24 10:50:28,638 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 10:51:05,042 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 10:51:41,372 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 10:52:17,471 - INFO - Vamos para o 1ª gale
+2025-04-24 10:52:52,504 - INFO - Resultado: WIN
+2025-04-24 10:53:13,589 - INFO - Bot encerrado pelo usuário
+2025-04-24 10:55:08,589 - INFO - Inicializando BotCassino
+2025-04-24 10:55:08,590 - INFO - Iniciando bot...
+2025-04-24 10:55:10,649 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 10:55:19,755 - INFO - Resultado: WIN
+2025-04-24 10:55:56,536 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 10:56:34,797 - INFO - Resultado: WIN
+2025-04-24 10:57:13,945 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 10:57:51,956 - INFO - Resultado: WIN
+2025-04-24 10:58:28,494 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 10:58:31,939 - INFO - Bot encerrado pelo usuário
+2025-04-24 21:47:02,707 - INFO - Inicializando BotCassino
+2025-04-24 21:47:02,708 - INFO - Iniciando bot...
+2025-04-24 21:47:03,859 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 21:47:15,203 - INFO - Resultado: WIN
+2025-04-24 21:47:47,624 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 21:48:21,653 - INFO - Vamos para o 1ª gale
+2025-04-24 21:48:54,118 - INFO - Resultado: WIN
+2025-04-24 21:49:26,554 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 21:49:58,607 - INFO - Vamos para o 1ª gale
+2025-04-24 21:50:30,983 - INFO - Vamos para o 2ª gale
+2025-04-24 21:51:03,179 - INFO - Resultado: WIN
+2025-04-24 21:51:37,825 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 21:52:10,040 - INFO - Vamos para o 1ª gale
+2025-04-24 21:52:42,340 - INFO - Vamos para o 2ª gale
+2025-04-24 21:53:16,794 - INFO - Resultado: LOSS
+2025-04-24 21:53:47,218 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 21:54:20,014 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 21:54:54,204 - INFO - Resultado: WIN
+2025-04-24 21:55:26,628 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 21:56:00,827 - INFO - Resultado: WIN
+2025-04-24 21:57:06,969 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 21:57:39,345 - INFO - Vamos para o 1ª gale
+2025-04-24 21:58:13,884 - INFO - Vamos para o 2ª gale
+2025-04-24 21:58:48,364 - INFO - Resultado: WIN
+2025-04-24 21:59:20,944 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 21:59:55,099 - INFO - Vamos para o 1ª gale
+2025-04-24 22:00:29,400 - INFO - Vamos para o 2ª gale
+2025-04-24 22:01:01,907 - INFO - Resultado: EMPATE
+2025-04-24 22:03:18,228 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:03:52,665 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 22:04:26,787 - INFO - Resultado: WIN
+2025-04-24 22:05:01,350 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 22:05:37,600 - INFO - Vamos para o 1ª gale
+2025-04-24 22:06:10,034 - INFO - Resultado: WIN
+2025-04-24 22:07:18,336 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:07:50,864 - INFO - Vamos para o 1ª gale
+2025-04-24 22:08:25,313 - INFO - Resultado: WIN
+2025-04-24 22:08:59,677 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 22:09:32,661 - INFO - Resultado: WIN
+2025-04-24 22:10:04,942 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:10:41,271 - INFO - Vamos para o 1ª gale
+2025-04-24 22:11:15,862 - INFO - Resultado: WIN
+2025-04-24 22:11:48,274 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 22:12:22,558 - INFO - Resultado: WIN
+2025-04-24 22:12:54,967 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:13:27,129 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:14:01,441 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:14:35,930 - INFO - Vamos para o 1ª gale
+2025-04-24 22:15:10,528 - INFO - Resultado: WIN
+2025-04-24 22:15:45,093 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 22:16:17,457 - INFO - Vamos para o 1ª gale
+2025-04-24 22:16:39,565 - INFO - Inicializando BotCassino
+2025-04-24 22:16:39,566 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:16:39,566 - INFO - Iniciando bot...
+2025-04-24 22:16:40,663 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:16:51,774 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 22:16:52,148 - INFO - Vamos para o 2ª gale
+2025-04-24 22:16:54,323 - INFO - Aposta realizada: A - R$5.00
+2025-04-24 22:17:23,258 - INFO - Vamos para o 1ª gale
+2025-04-24 22:17:25,053 - INFO - Resultado: LOSS
+2025-04-24 22:17:58,308 - INFO - Vamos para o 2ª gale
+2025-04-24 22:18:31,452 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:18:33,322 - INFO - Resultado: WIN
+2025-04-24 22:18:56,018 - INFO - Bot encerrado pelo usuário
+2025-04-24 22:21:53,355 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:22:25,948 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 22:22:58,464 - INFO - Vamos para o 1ª gale
+2025-04-24 22:23:32,889 - INFO - Resultado: WIN
+2025-04-24 22:24:08,401 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-24 22:24:40,588 - INFO - Vamos para o 1ª gale
+2025-04-24 22:25:15,131 - INFO - Resultado: WIN
+2025-04-24 22:25:49,620 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:26:06,247 - INFO - Inicializando BotCassino
+2025-04-24 22:26:06,248 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:26:06,248 - INFO - Iniciando bot...
+2025-04-24 22:26:07,361 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:26:24,479 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:26:25,541 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:26:56,919 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:26:59,356 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:27:00,074 - ERROR - Erro ao fazer aposta: 'v'
+2025-04-24 22:27:31,090 - INFO - Resultado: WIN
+2025-04-24 22:27:31,934 - INFO - Resultado: WIN
+2025-04-24 22:27:45,105 - INFO - Bot encerrado pelo usuário
+2025-04-24 22:28:05,996 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:28:40,486 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:29:14,573 - INFO - Resultado: WIN
+2025-04-24 22:29:47,044 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:30:21,565 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:30:31,012 - INFO - Inicializando BotCassino
+2025-04-24 22:30:31,013 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:30:31,013 - INFO - Iniciando bot...
+2025-04-24 22:30:32,207 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:30:32,978 - ERROR - Erro ao fazer aposta: 'v'
+2025-04-24 22:30:43,209 - INFO - Bot encerrado pelo usuário
+2025-04-24 22:30:55,912 - INFO - Vamos para o 1ª gale
+2025-04-24 22:31:25,950 - INFO - Inicializando BotCassino
+2025-04-24 22:31:25,951 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:31:25,951 - INFO - Iniciando bot...
+2025-04-24 22:31:27,058 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:31:27,826 - ERROR - Erro ao fazer aposta: 'v'
+2025-04-24 22:31:30,465 - INFO - Vamos para o 2ª gale
+2025-04-24 22:31:31,145 - INFO - Vamos para o 1ª gale
+2025-04-24 22:31:39,631 - INFO - Bot encerrado pelo usuário
+2025-04-24 22:32:02,711 - INFO - Resultado: EMPATE
+2025-04-24 22:33:01,682 - INFO - Inicializando BotCassino
+2025-04-24 22:33:01,682 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:33:01,683 - INFO - Iniciando bot...
+2025-04-24 22:33:44,999 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:33:47,016 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:34:21,627 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:34:22,513 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:34:58,061 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:34:58,320 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:34:58,779 - ERROR - Erro ao fazer aposta: 'V'
+2025-04-24 22:35:20,436 - INFO - Bot encerrado pelo usuário
+2025-04-24 22:35:30,375 - INFO - Vamos para o 1ª gale
+2025-04-24 22:36:06,907 - INFO - Resultado: WIN
+2025-04-24 22:36:39,263 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 22:36:48,143 - INFO - Inicializando BotCassino
+2025-04-24 22:36:48,144 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:36:48,144 - INFO - Coordenadas configuradas: {'azul': (100, 200), 'vermelho': (150, 200), 'empate': (125, 250), 'ficha_5': (300, 400), 'ficha_10': (350, 400), 'ficha_25': (400, 400), 'confirmar': (250, 500)}
+2025-04-24 22:36:48,144 - INFO - Iniciando bot...
+2025-04-24 22:36:49,281 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 22:36:50,080 - ERROR - Erro ao fazer aposta em A: 'A'
+Coordenadas usadas: {'azul': (100, 200), 'vermelho': (150, 200), 'empate': (125, 250), 'ficha_5': (300, 400), 'ficha_10': (350, 400), 'ficha_25': (400, 400), 'confirmar': (250, 500)}
+2025-04-24 22:37:09,331 - INFO - Bot encerrado pelo usuário
+2025-04-24 22:37:15,593 - INFO - Resultado: WIN
+2025-04-24 22:37:50,062 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:38:24,688 - INFO - Vamos para o 1ª gale
+2025-04-24 22:38:59,261 - INFO - Resultado: WIN
+2025-04-24 22:39:33,814 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 22:40:07,894 - INFO - Resultado: WIN
+2025-04-24 22:40:42,424 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:41:16,911 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:41:53,685 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:42:28,521 - INFO - Resultado: EMPATE
+2025-04-24 22:42:33,266 - INFO - Inicializando BotCassino
+2025-04-24 22:42:33,267 - INFO - Iniciando bot...
+2025-04-24 22:42:34,604 - ERROR - Erro ao analisar resultados: 'BotCassino' object has no attribute 'estrategias'
+2025-04-24 22:42:46,135 - INFO - Bot encerrado pelo usuário
+2025-04-24 22:44:13,107 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:44:58,456 - INFO - Inicializando BotCassino
+2025-04-24 22:44:58,456 - INFO - Iniciando bot...
+2025-04-24 22:48:15,380 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:48:17,067 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:48:49,894 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 22:48:51,473 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 22:48:51,473 - ERROR - Erro ao analisar resultados: 'BotCassino' object has no attribute 'config'
+2025-04-24 22:49:09,277 - INFO - Bot encerrado pelo usuário
+2025-04-24 22:49:24,115 - INFO - Resultado: WIN
+2025-04-24 22:50:00,662 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:50:35,031 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:50:56,555 - INFO - Inicializando BotCassino
+2025-04-24 22:50:56,556 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:50:56,556 - INFO - Iniciando bot...
+2025-04-24 22:50:57,652 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:50:58,422 - ERROR - Erro ao fazer aposta em V: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Coordenadas usadas: {'azul': (100, 200), 'vermelho': (150, 200), 'empate': (125, 250), 'ficha_5': (300, 400), 'ficha_10': (350, 400), 'ficha_25': (400, 400), 'confirmar': (250, 500)}
+2025-04-24 22:50:59,423 - ERROR - Erro ao executar manter_ativo: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-04-24 22:51:01,516 - ERROR - Erro ao executar manter_ativo: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-04-24 22:51:03,619 - ERROR - Erro ao executar manter_ativo: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-04-24 22:51:05,749 - ERROR - Erro ao executar manter_ativo: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-04-24 22:51:07,850 - ERROR - Erro ao executar manter_ativo: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-04-24 22:51:08,945 - INFO - Resultado: WIN
+2025-04-24 22:51:09,165 - INFO - Resultado: WIN
+2025-04-24 22:51:09,949 - ERROR - Erro ao executar manter_ativo: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-04-24 22:51:12,040 - ERROR - Erro ao executar manter_ativo: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-04-24 22:51:21,281 - INFO - Bot encerrado pelo usuário
+2025-04-24 22:51:22,880 - INFO - Inicializando BotCassino
+2025-04-24 22:51:22,881 - INFO - Configurações carregadas com sucesso
+2025-04-24 22:51:22,881 - INFO - Iniciando bot...
+2025-04-24 22:51:23,995 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:52:17,321 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:52:18,015 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:52:53,554 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:52:53,801 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 22:53:28,041 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 22:53:28,055 - ERROR - Erro ao fazer aposta em A: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Coordenadas usadas: {'azul': (100, 200), 'vermelho': (150, 200), 'empate': (125, 250), 'ficha_5': (300, 400), 'ficha_10': (350, 400), 'ficha_25': (400, 400), 'confirmar': (250, 500)}
+2025-04-24 22:53:28,249 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 22:53:29,057 - ERROR - Erro ao executar manter_ativo: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-04-24 22:53:45,057 - INFO - Bot encerrado pelo usuário
+2025-04-24 22:54:02,413 - INFO - Resultado: WIN
+2025-04-24 22:54:39,078 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:55:11,258 - INFO - Resultado: WIN
+2025-04-24 22:55:47,822 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 22:56:22,394 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 22:56:56,559 - INFO - Resultado: WIN
+2025-04-24 22:57:31,102 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 22:58:07,463 - INFO - Resultado: WIN
+2025-04-24 22:59:51,762 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 23:00:26,651 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:01:38,291 - INFO - Inicializando BotCassino
+2025-04-24 23:01:38,291 - INFO - Configurações carregadas com sucesso
+2025-04-24 23:01:38,292 - INFO - Iniciando bot...
+2025-04-24 23:03:25,479 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:03:27,537 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:04:01,887 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:04:01,902 - ERROR - Erro ao fazer aposta em A: Coordenada para azul não encontrada no config
+Coordenadas usadas: {}
+2025-04-24 23:04:01,980 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:04:27,762 - INFO - Bot encerrado pelo usuário
+2025-04-24 23:04:36,181 - INFO - Resultado: EMPATE
+2025-04-24 23:06:06,343 - INFO - Inicializando BotCassino
+2025-04-24 23:06:06,344 - INFO - Configurações carregadas com sucesso
+2025-04-24 23:06:06,344 - INFO - Iniciando bot...
+2025-04-24 23:06:56,447 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 23:06:58,292 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 23:07:32,119 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:07:33,188 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:08:09,306 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:08:09,321 - ERROR - Erro ao fazer aposta em A: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Coordenadas usadas: {}
+2025-04-24 23:08:09,773 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:08:10,323 - ERROR - Erro ao executar manter_ativo: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-04-24 23:08:12,422 - ERROR - Erro ao executar manter_ativo: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2025-04-24 23:08:26,198 - INFO - Bot encerrado pelo usuário
+2025-04-24 23:08:46,056 - INFO - Resultado: EMPATE
+2025-04-24 23:09:34,913 - INFO - Inicializando BotCassino
+2025-04-24 23:09:34,914 - INFO - Configurações carregadas com sucesso
+2025-04-24 23:09:34,915 - INFO - Iniciando bot...
+2025-04-24 23:10:30,477 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:10:30,930 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:12:17,032 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:12:17,547 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:12:50,920 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:12:51,703 - ERROR - Erro ao fazer aposta em A: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+Coordenadas usadas: {}
+2025-04-24 23:12:51,994 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:13:26,498 - INFO - Resultado: WIN
+2025-04-24 23:13:27,672 - INFO - Resultado: WIN
+2025-04-24 23:14:31,387 - INFO - Bot encerrado pelo usuário
+2025-04-24 23:14:33,226 - INFO - Inicializando BotCassino
+2025-04-24 23:14:33,226 - INFO - Configurações carregadas com sucesso
+2025-04-24 23:14:33,227 - INFO - Iniciando bot...
+2025-04-24 23:15:14,433 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 23:15:15,053 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 23:15:50,512 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:15:51,940 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:21:19,868 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:21:20,960 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:21:56,994 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:21:58,929 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:22:02,775 - ERROR - Erro ao fazer aposta em A: 'ficha_5'
+Coordenadas usadas: {}
+2025-04-24 23:22:20,948 - INFO - Bot encerrado pelo usuário
+2025-04-24 23:22:33,200 - INFO - Vamos para o 1ª gale
+2025-04-24 23:23:09,791 - INFO - Vamos para o 2ª gale
+2025-04-24 23:24:11,633 - INFO - Resultado: LOSS
+2025-04-24 23:24:52,460 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 23:25:31,179 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 23:25:46,955 - INFO - Inicializando BotCassino
+2025-04-24 23:25:46,955 - INFO - Configurações carregadas com sucesso
+2025-04-24 23:25:46,956 - INFO - Iniciando bot...
+2025-04-24 23:25:48,090 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 23:25:53,863 - ERROR - Erro ao fazer aposta em V: 'ficha_5'
+Coordenadas usadas: {}
+2025-04-24 23:26:10,648 - INFO - Vamos para o 1ª gale
+2025-04-24 23:26:11,569 - INFO - Vamos para o 1ª gale
+2025-04-24 23:26:46,423 - INFO - Vamos para o 2ª gale
+2025-04-24 23:26:46,501 - INFO - Vamos para o 2ª gale
+2025-04-24 23:27:22,272 - INFO - Resultado: LOSS
+2025-04-24 23:27:23,019 - INFO - Resultado: LOSS
+2025-04-24 23:28:00,303 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:28:01,620 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:28:03,859 - INFO - Bot encerrado pelo usuário
+2025-04-24 23:28:37,988 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 23:29:13,991 - INFO - Resultado: WIN
+2025-04-24 23:29:46,068 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 23:30:22,049 - INFO - Resultado: WIN
+2025-04-24 23:30:56,334 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 23:30:58,107 - INFO - Inicializando BotCassino
+2025-04-24 23:30:58,107 - INFO - Configurações carregadas com sucesso
+2025-04-24 23:30:58,107 - INFO - Iniciando bot...
+2025-04-24 23:30:59,188 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 23:31:04,965 - ERROR - Erro ao fazer aposta em A: 'ficha_5'
+Coordenadas usadas: {}
+2025-04-24 23:31:27,965 - INFO - Resultado: WIN
+2025-04-24 23:31:28,121 - INFO - Resultado: WIN
+2025-04-24 23:31:32,187 - INFO - Bot encerrado pelo usuário
+2025-04-24 23:32:38,422 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 23:33:19,124 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:33:53,654 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:34:29,992 - INFO - Resultado: EMPATE
+2025-04-24 23:35:46,746 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:36:23,186 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:37:05,763 - INFO - Resultado: WIN
+2025-04-24 23:37:44,406 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 23:38:22,580 - INFO - Resultado: WIN
+2025-04-24 23:38:57,030 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:39:33,232 - INFO - Vamos para o 1ª gale
+2025-04-24 23:40:09,611 - INFO - Resultado: WIN
+2025-04-24 23:40:50,169 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 23:41:24,262 - INFO - Vamos para o 1ª gale
+2025-04-24 23:42:01,147 - INFO - Vamos para o 2ª gale
+2025-04-24 23:42:30,164 - INFO - Inicializando BotCassino
+2025-04-24 23:42:30,165 - INFO - Configurações carregadas com sucesso
+2025-04-24 23:42:30,165 - INFO - Iniciando bot...
+2025-04-24 23:42:35,386 - INFO - Resultado: LOSS
+2025-04-24 23:43:47,531 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:43:49,078 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:44:27,190 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:44:28,331 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:44:31,297 - INFO - Aposta realizada: A - 4fichas | Empate: 1fichas
+2025-04-24 23:45:01,023 - INFO - Resultado: WIN
+2025-04-24 23:45:02,414 - INFO - Resultado: WIN
+2025-04-24 23:45:32,559 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 23:45:32,603 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 23:45:36,662 - INFO - Aposta realizada: V - 4fichas | Empate: 1fichas
+2025-04-24 23:45:54,911 - INFO - Bot encerrado pelo usuário
+2025-04-24 23:46:08,785 - INFO - Vamos para o 1ª gale
+2025-04-24 23:46:47,405 - INFO - Resultado: EMPATE
+2025-04-24 23:47:53,876 - INFO - Inicializando BotCassino
+2025-04-24 23:47:53,877 - INFO - Configurações carregadas com sucesso
+2025-04-24 23:47:53,877 - INFO - Iniciando bot...
+2025-04-24 23:48:01,345 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:48:02,098 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:48:36,699 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 23:48:37,408 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 23:49:13,298 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 23:49:13,299 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-24 23:49:13,436 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 23:49:22,415 - INFO - Aposta realizada: V - 4fichas | Empate: 1fichas
+2025-04-24 23:49:35,170 - INFO - Bot encerrado pelo usuário
+2025-04-24 23:49:47,491 - INFO - Vamos para o 1ª gale
+2025-04-24 23:50:24,149 - INFO - Vamos para o 2ª gale
+2025-04-24 23:50:58,579 - INFO - Resultado: LOSS
+2025-04-24 23:51:35,165 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:52:16,503 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:52:56,928 - INFO - Resultado: WIN
+2025-04-24 23:53:10,100 - INFO - Inicializando BotCassino
+2025-04-24 23:53:10,100 - INFO - Configurações carregadas com sucesso
+2025-04-24 23:53:10,101 - INFO - Iniciando bot...
+2025-04-24 23:53:11,219 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-24 23:53:33,459 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 23:53:34,396 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-24 23:53:34,396 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-24 23:53:43,526 - INFO - Aposta realizada: V - 4fichas | Empate: 1fichas
+2025-04-24 23:54:07,789 - INFO - Vamos para o 1ª gale
+2025-04-24 23:54:08,878 - INFO - Vamos para o 1ª gale
+2025-04-24 23:54:40,522 - INFO - Resultado: WIN
+2025-04-24 23:54:42,432 - INFO - Resultado: WIN
+2025-04-24 23:55:12,242 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 23:55:12,242 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-24 23:55:12,660 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 23:55:21,296 - INFO - Aposta realizada: A - 4fichas | Empate: 1fichas
+2025-04-24 23:55:44,553 - INFO - Resultado: WIN
+2025-04-24 23:55:44,772 - INFO - Resultado: WIN
+2025-04-24 23:56:18,427 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:56:19,363 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-24 23:56:51,762 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:56:52,332 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-24 23:56:52,333 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-24 23:57:01,394 - INFO - Aposta realizada: A - 4fichas | Empate: 1fichas
+2025-04-24 23:57:25,958 - INFO - Vamos para o 1ª gale
+2025-04-24 23:57:26,641 - INFO - Vamos para o 1ª gale
+2025-04-24 23:57:58,456 - INFO - Resultado: WIN
+2025-04-24 23:58:00,520 - INFO - Resultado: WIN
+2025-04-24 23:58:32,191 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 23:58:32,192 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-24 23:58:32,821 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-24 23:58:41,257 - INFO - Aposta realizada: V - 4fichas | Empate: 1fichas
+2025-04-24 23:59:04,542 - INFO - Resultado: WIN
+2025-04-24 23:59:04,832 - INFO - Resultado: WIN
+2025-04-24 23:59:05,869 - INFO - Bot encerrado pelo usuário
+2025-04-24 23:59:37,159 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-25 00:00:01,774 - INFO - Reiniciando contadores diários
+2025-04-25 00:00:11,511 - INFO - Resultado: EMPATE
+2025-04-25 00:01:16,383 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:01:50,803 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:02:23,618 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:02:56,477 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-25 00:03:30,237 - INFO - Resultado: WIN
+2025-04-25 00:04:37,268 - INFO - Inicializando BotCassino
+2025-04-25 00:04:37,269 - INFO - Configurações carregadas com sucesso
+2025-04-25 00:04:37,269 - ERROR - Erro fatal: name 'EstrategiaManager' is not defined
+2025-04-25 00:06:41,113 - INFO - Inicializando BotCassino
+2025-04-25 00:06:41,113 - INFO - Configurações carregadas com sucesso
+2025-04-25 00:06:41,113 - INFO - Configurações e coordenadas carregadas com sucesso
+2025-04-25 00:06:41,113 - INFO - Iniciando bot...
+2025-04-25 00:07:22,434 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:07:23,056 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:07:54,212 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-25 00:07:54,212 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-25 00:07:55,539 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-25 00:08:03,322 - INFO - Aposta realizada: A - Valor: 20 | Empate: 5
+2025-04-25 00:08:27,634 - INFO - Resultado: WIN
+2025-04-25 00:08:28,651 - ERROR - Erro ao verificar resultado: 'BotCassino' object has no attribute 'processar_resultado'
+2025-04-25 00:09:02,151 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:09:02,415 - ERROR - Erro ao verificar resultado: 'BotCassino' object has no attribute 'processar_resultado'
+2025-04-25 00:09:12,210 - INFO - Bot encerrado pelo usuário
+2025-04-25 00:09:33,034 - INFO - Inicializando BotCassino
+2025-04-25 00:09:33,035 - INFO - Configurações carregadas com sucesso
+2025-04-25 00:09:33,035 - INFO - Configurações e coordenadas carregadas com sucesso
+2025-04-25 00:09:33,035 - INFO - Iniciando bot...
+2025-04-25 00:13:58,381 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:13:58,708 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:14:32,169 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 00:14:32,171 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-25 00:14:33,537 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 00:14:41,277 - INFO - Aposta realizada: V - Valor: 20 | Empate: 5
+2025-04-25 00:15:03,542 - INFO - Resultado: WIN
+2025-04-25 00:15:04,546 - INFO - Resultado: WIN
+2025-04-25 00:15:38,064 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:15:38,457 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:16:12,157 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 00:16:12,157 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-25 00:16:12,418 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 00:16:21,216 - INFO - Aposta realizada: V - Valor: 20 | Empate: 5
+2025-04-25 00:16:31,269 - INFO - Bot encerrado pelo usuário
+2025-04-25 00:16:44,441 - INFO - Resultado: WIN
+2025-04-25 00:17:18,799 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-25 00:17:51,146 - INFO - Resultado: WIN
+2025-04-25 00:18:25,648 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 00:18:31,041 - INFO - Inicializando BotCassino
+2025-04-25 00:18:31,041 - INFO - Configurações carregadas com sucesso
+2025-04-25 00:18:31,042 - INFO - Configurações e coordenadas carregadas com sucesso
+2025-04-25 00:18:31,042 - INFO - Iniciando bot...
+2025-04-25 00:18:32,158 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 00:18:32,158 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-25 00:18:41,285 - INFO - Aposta realizada: V - Valor: 20 | Empate: 5
+2025-04-25 00:18:57,620 - INFO - Vamos para o 1ª gale
+2025-04-25 00:18:58,085 - INFO - Resultado: WIN
+2025-04-25 00:19:07,945 - INFO - Bot encerrado pelo usuário
+2025-04-25 00:19:32,250 - INFO - Vamos para o 2ª gale
+2025-04-25 00:20:04,579 - INFO - Resultado: LOSS
+2025-04-25 00:20:36,927 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:21:11,511 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-25 00:21:45,632 - INFO - Vamos para o 1ª gale
+2025-04-25 00:21:54,895 - INFO - Inicializando BotCassino
+2025-04-25 00:21:54,896 - INFO - Configurações carregadas com sucesso
+2025-04-25 00:21:54,897 - INFO - Configurações e coordenadas carregadas com sucesso
+2025-04-25 00:21:54,897 - INFO - Iniciando bot...
+2025-04-25 00:21:56,034 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-25 00:21:56,034 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-25 00:22:05,143 - INFO - Aposta realizada: A - Valor: 20 | Empate: 5
+2025-04-25 00:22:17,709 - INFO - Resultado: EMPATE
+2025-04-25 00:22:18,134 - INFO - Resultado: EMPATE
+2025-04-25 00:25:44,617 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:25:45,756 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:31:23,549 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:31:23,738 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:31:59,379 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:32:00,691 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:32:37,327 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:32:37,363 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:33:15,251 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 00:33:15,251 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-25 00:33:16,094 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 00:33:24,316 - INFO - Aposta realizada: V - Valor: 20 | Empate: 5
+2025-04-25 00:33:51,797 - INFO - Resultado: EMPATE
+2025-04-25 00:33:52,409 - INFO - Resultado: EMPATE
+2025-04-25 00:34:03,910 - INFO - Bot encerrado pelo usuário
+2025-04-25 00:35:45,125 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:35:55,332 - INFO - Inicializando BotCassino
+2025-04-25 00:35:55,333 - INFO - Configurações carregadas com sucesso
+2025-04-25 00:35:55,333 - INFO - Configurações e coordenadas carregadas com sucesso
+2025-04-25 00:35:55,333 - INFO - Iniciando bot...
+2025-04-25 00:35:56,438 - INFO - Processando novo resultado: A
+2025-04-25 00:35:56,438 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:36:23,832 - INFO - Processando novo resultado: V
+2025-04-25 00:36:23,832 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:36:24,226 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:36:59,703 - INFO - Processando novo resultado: A
+2025-04-25 00:36:59,704 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:37:00,739 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:37:37,338 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-25 00:37:37,658 - INFO - Processando novo resultado: V
+2025-04-25 00:37:37,659 - INFO - Estratégia válida encontrada: Padrão Alternância - Entrada: A
+2025-04-25 00:37:37,660 - INFO - Aguardando 5 segundos antes de apostar...
+2025-04-25 00:37:42,665 - INFO - Fazendo aposta em: A
+2025-04-25 00:37:46,771 - INFO - Aposta realizada: A - Valor: 20 | Empate: 5
+2025-04-25 00:38:15,767 - INFO - Vamos para o 1ª gale
+2025-04-25 00:38:52,144 - INFO - Processando novo resultado: E
+2025-04-25 00:38:52,144 - INFO - Resultado: EMPATE
+2025-04-25 00:38:52,455 - INFO - Resultado: EMPATE
+2025-04-25 00:39:30,033 - INFO - Processando novo resultado: A
+2025-04-25 00:39:37,194 - INFO - Bot encerrado pelo usuário
+2025-04-25 00:42:41,222 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:43:21,847 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-25 00:43:58,130 - INFO - Resultado: WIN
+2025-04-25 00:44:36,784 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 00:45:15,499 - INFO - Vamos para o 1ª gale
+2025-04-25 00:45:54,187 - INFO - Resultado: WIN
+2025-04-25 00:46:32,963 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-25 00:47:13,629 - INFO - Resultado: WIN
+2025-04-25 00:47:49,862 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:49:42,724 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:50:23,670 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:51:02,617 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:51:43,280 - INFO - Estratégia encontrada: Padrão Alternância
+2025-04-25 00:52:19,474 - INFO - Vamos para o 1ª gale
+2025-04-25 00:52:53,907 - INFO - Resultado: EMPATE
+2025-04-25 00:54:35,958 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:55:10,783 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 00:55:45,650 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 00:56:20,149 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 00:56:54,321 - INFO - Vamos para o 1ª gale
+2025-04-25 00:57:29,674 - INFO - Vamos para o 2ª gale
+2025-04-25 00:58:04,132 - INFO - Resultado: WIN
+2025-04-25 00:58:36,678 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-25 00:59:12,927 - INFO - Resultado: EMPATE
+2025-04-25 01:00:23,145 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 01:00:55,419 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 01:01:31,692 - INFO - Vamos para o 1ª gale
+2025-04-25 01:02:04,013 - INFO - Resultado: WIN
+2025-04-25 01:02:40,679 - INFO - Estratégia encontrada: Padrão Escadinha Alternada
+2025-04-25 01:03:14,780 - INFO - Resultado: WIN
+2025-04-25 01:03:49,319 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
+2025-04-25 01:04:25,918 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 01:05:00,407 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 01:05:34,397 - INFO - Resultado: WIN
+2025-04-25 01:06:08,870 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 01:06:43,487 - INFO - Estratégia encontrada: Padrão "T" Bunker
+2025-04-25 01:07:17,740 - INFO - Vamos para o 1ª gale
+2025-04-25 01:07:52,607 - INFO - Vamos para o 2ª gale
+2025-04-25 01:08:27,066 - INFO - Resultado: WIN
+2025-04-25 01:08:59,502 - INFO - Estratégia encontrada: Padrão "T" Player
+2025-04-25 01:09:35,766 - INFO - Resultado: EMPATE
+2025-04-25 01:10:43,962 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Bunker
+2025-04-25 01:11:18,628 - INFO - Padrão parcial encontrado para estratégia: Padrão "T" Player
